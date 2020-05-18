@@ -5,58 +5,58 @@
   "time": "1:00 h",
   "details": {
     "steps": [{
-      "title": "Paso 1 - Correr Python",
+      "title": "Lección 1 - Correr Python",
       "text": "step1.md"
     },{
-      "title": "Paso 2 - Sentencias",
+      "title": "Lección 2 - Sentencias",
       "text": "Sentencias.md"
     },{
-      "title": "Paso 3 - Tipos de datos",
+      "title": "Lección 3 - Tipos de datos",
       "text": "tiposdedatos.md"
     },{
-      "title": "Paso 4 - Variables",
+      "title": "Lección 4 - Variables",
       "text": "variables.md"
     },{
-      "title": "Paso 5 - Operadores",
+      "title": "Lección 5 - Operadores",
       "text": "operadores.md"
     },{
-      "title": "Paso 6 - Herramientas de control de flujo",
+      "title": "Lección 6 - Herramientas de control de flujo",
       "text": "controlflujoif.md"
     },{
-      "title": "Paso 6 - Herramientas de control de flujo",
+      "title": "Lección 6 - Herramientas de control de flujo",
       "text": "controlflujoswitch.md"
     },{
-      "title": "Paso 6 - Herramientas de control de flujo",
+      "title": "Lección 6 - Herramientas de control de flujo",
       "text": "controlflujociclos.md"
     },{
       "title": "Paso 6 - Herramientas de control de flujo",
       "text": "controlflujotry.md"
     },{
-      "title": "Paso 7 - Estructuras de datos",
+      "title": "Lección 7 - Estructuras de datos",
       "text": "listas.md"
     },{
-      "title": "Paso 7 - Estructuras de datos",
+      "title": "Lección 7 - Estructuras de datos",
       "text": "tuplas.md"
     },{
-      "title": "Paso 7 - Estructuras de datos",
+      "title": "Lección 7 - Estructuras de datos",
       "text": "sets.md"
     },{
-      "title": "Paso 7 - Estructuras de datos",
+      "title": "Lección 7 - Estructuras de datos",
       "text": "diccionarios.md"
     },{
-      "title": "Paso 8 - Funciones",
+      "title": "Lección 8 - Funciones",
       "text": "funciones.md"
     },{
-      "title": "Paso 9 - Clases",
+      "title": "Lección 9 - Clases",
       "text": "clases.md"
     },{
-      "title": "Paso 10 - Herencia",
+      "title": "Lección 10 - Herencia",
       "text": "herencia.md"
     },{
-      "title": "Paso 11 - Módulos",
+      "title": "Lección 11 - Módulos",
       "text": "modulos.md"
     },{
-      "title": "Paso 12 - Recursividad",
+      "title": "Lección 12 - Recursividad",
       "text": "recursive.md"
     }],
     "intro": {
