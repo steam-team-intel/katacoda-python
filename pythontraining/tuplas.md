@@ -2,7 +2,7 @@
 
 Las tuplas son colecciones ordenadas de elementos no modificables de tamano definido. En Python se escriben con parentesis.
 
-El siguiente comando crea una tupla
+El siguiente comando crea una tupla:
 `
 unatupla = (1, "banano", "piña")
 print(unatupla)
