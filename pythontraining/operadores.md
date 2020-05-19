@@ -18,6 +18,9 @@ Los operadores lógicos también existen:
 1 and 0
 ```{{execute}}
 
+```python
+1 or 0
+```{{execute}}
 
 Escriba una expresión utilizando un operador con los números 3 y 6 que de como resultado True
 
