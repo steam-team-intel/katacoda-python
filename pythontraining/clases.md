@@ -8,7 +8,8 @@ La manera en la que se declara una clase es la siguiente:
     def __init__(self, especie):
         self.spp = especie
     def obtener_especie(self):
-        print(self.spp)`{{execute}}
+        print(self.spp)
+        `{{execute}}
 
 Creamos una instancia de la clase:
 
