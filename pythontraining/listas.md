@@ -25,3 +25,19 @@ Este comando obtiene un objeto de la lista por índice:
 Este comando obtiene el tamaño de una lista:
 
 `len(mi_lista)`{{execute}}
+
+Este comando saca el ultimo elemento de la lista:
+
+`mi_lista.pop()`{{execute}}
+
+`print(mi_lista)`{{execute}}
+
+Este comando inserta un elemento en dada posición de la lista:
+
+`mi_lista.insert(0,'hola')
+print(mi_lista)`{{execute}}
+
+Append agrega al final de la lista:
+
+`mi_lista.append('hola')
+print(mi_lista)`{{execute}}
