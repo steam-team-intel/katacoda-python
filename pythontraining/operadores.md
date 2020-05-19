@@ -19,6 +19,10 @@ Los operadores lógicos también existen:
 ```{{execute}}
 
 ```python
+True and True
+```{{execute}}
+
+```python
 1 or 0
 ```{{execute}}
 
