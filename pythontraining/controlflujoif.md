@@ -19,7 +19,9 @@ Cambie los valores de una_variable de manera que logre obtener las tres salidas.
 
 
 ```python
-una_variable = 40
+una_variable = 40```{{execute}}
+
+```python
 if una_variable > 10:
     print('La variable es completamente mas grande que 10.')
 elif una_variable < 10:
