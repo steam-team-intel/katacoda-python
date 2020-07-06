@@ -52,6 +52,9 @@
     },{
       "title": "Lección 10 - Módulos",
       "text": "modulos.md"
+    },{
+      "title": "Ejercicio 3: Importar Modulos",
+      "text": "ex3.md"
     }],
     "intro": {
       "text": "intro.md",
