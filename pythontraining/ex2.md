@@ -14,17 +14,17 @@ for i in range(x):
 
 ### Pista2: Recuerde que la función .append() añade un elemento al final de una lista
 
-for i in range(x){{copy}}
+`for i in range(x)`{{copy}}
 
-.append(){{copy}}
+`.append()`{{copy}}
 
 
 ### Recuerde que para ejecutar archivos desde un IDE
 
 Para crear un archivo basta escribir en la terminal:
 
-touch archivodeprueba.py{{execute}}
+`touch archivodeprueba.py`{{execute}}
 
 Para ejecutar el archivo escriba en consola:
 
-python3 archivodeprueba.py{{execute}}
+`python3 archivodeprueba.py`{{execute}}
