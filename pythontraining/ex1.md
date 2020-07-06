@@ -9,19 +9,18 @@ Si no se cumplen los requisitos de la empresa de mudanza la pantalla debera impr
 
 Realice las pruebas utilizando los siguientes valores. 
 
-dia = miercoles{{copy}}
-distancia = 5{{copy}}
+`dia = miercoles`{{copy}}
+`distancia = 5`{{copy}}
 
-
-dia = lunes{{copy}}
-distancia = 10{{copy}}
+`dia = lunes`{{copy}}
+`distancia = 10`{{copy}}
 
 ## Recuerde que para ejecutar archivos desde un IDE
 
 Para crear un archivo basta escribir en la terminal:
 
-touch archivodeprueba.py{{execute}}
+`touch archivodeprueba.py`{{execute}}
 
 Para ejecutar el archivo escriba en consola:
 
-python3 archivodeprueba.py{{execute}}
+`python3 archivodeprueba.py`{{execute}}
