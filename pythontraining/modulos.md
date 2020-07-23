@@ -6,4 +6,7 @@ Los modulos son archivos u objetos externos creados por alguien mas y que pueden
 `
 import random
 random.choice(['manzana', 'naranja', 'manzana', 'pera', 'naranja', 'banano'])
-`{{execute}}
+`{{copy}}
+
+### Para ejecutar desde consola
+`python3 archivodeprueba.py`{{copy}}
