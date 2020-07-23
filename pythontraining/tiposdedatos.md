@@ -6,25 +6,27 @@ En Python existen cuatro tipos de datos: ints, floats, strings, o chars. Para co
 
 ```python
 type(1)
-```{{execute}}
+```{{copy}}
 
 ```python
 type(3.4)
-```{{execute}}
+```{{copy}}
 
 ```python
 type('hola')
-```{{execute}}
+```{{copy}}
 
 
 ```python
 type('a')
-```{{execute}}
+```{{copy}}
 
 ¿Qué tipo tendrá la siguiente línea 1B?
 
 
 ```python
 type(1B)
-```{{execute}}
+```{{copy}}
 
+### Para ejecutar desde consola
+`python3 archivodeprueba.py`{{copy}}
