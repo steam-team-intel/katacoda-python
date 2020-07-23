@@ -12,9 +12,12 @@ El siguiente comando llama a un elemento de la tupla:
 
 `
 unatupla[1]
-`{{execute}}
+`{{copy}}
 
 Las tuplas no se pueden modificar. Intenta hacerlo: 
 
 `
-unatupla[1] = 'caña'`{{execute}}
+unatupla[1] = 'caña'`{{copy}}
+
+### Para ejecutar desde consola
+`python3 archivodeprueba.py`{{copy}}
