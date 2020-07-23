@@ -4,9 +4,12 @@ Los diccionarios son colecciones no ordenadas de elementos asociados a una llave
 
 `
 ViviendaStudents = {'Mariana': 'San Jose', 'Fabiola': 'Alajuela','Jafeth': 'Heredia' }
-ViviendaStudents['Mariana']`{{execute}}
+ViviendaStudents['Mariana']`{{copy}}
 
 
 `
-list(ViviendaStudents)`{{execute}}
+list(ViviendaStudents)`{{copy}}
 
+### Para ejecutar el archivo escriba en consola:
+
+`python3 archivodeprueba.py`{{copy}}
