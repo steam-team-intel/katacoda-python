@@ -5,17 +5,17 @@ Lo primero que vamos a hacer es correr la Python, esto se puede hacer en diferen
 **Desde la terminal**
 
 Para esto escriba 
-`python3`{{execute}}
+`python3`{{copy}}
 
 Si desea salir de la consola de python escriba:
 
-`quit()`{{execute}}
+`quit()`{{copy}}
 
 **Desde un IDE**
 
 Para crear un archivo basta escribir en la terminal:
 
-`touch archivodeprueba.py`{{execute}}
+`touch archivodeprueba.py`{{copy}}
 
 Pruebe copiando esto en su archivo:
 
@@ -24,6 +24,6 @@ Pruebe copiando esto en su archivo:
 Para ejecutar el archivo escriba en consola:
 
 
-`python3 archivodeprueba.py`{{execute}}
+`python3 archivodeprueba.py`{{copy}}
 
 
