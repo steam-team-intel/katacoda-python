@@ -11,7 +11,7 @@ print(mi_lista)`{{copy}}
 
 Este comando crea una lista de enteros:
 `mi_lista = [1, 2, 3]
-print(mi_lista)`{{execute}}
+print(mi_lista)`{{copy}}
 
 Este comando crea una lista de datos mixtos:
 
