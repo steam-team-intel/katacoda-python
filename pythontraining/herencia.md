@@ -6,18 +6,18 @@ La herencia se da cuando un objeto se basa en otro para ser creado, utiliza los 
 `class Gatito(Mascota):
     def __init__(self, color, raza):
         Mascota.__init__(self, 'Gato')
-        self.gcolor = color
-        self.graza = raza
+        self.color = color
+        self.raza = raza
     def obtener_raza(self):
-        print(self.graza)
+        print(self.raza)
     def print_school(self):
-        print(self.gcolor)`{{execute}}
+        print(self.color)`{{copy}}
 
 Para crear una instancia de la clase:
 
 `Max = Gatito('Naranja', 'Callejero')
 Max.obtener_raza()
-Max.obtener_especie()`{{execute}}
+Max.obtener_especie()`{{copy}}
 
 El nivel de abstraccion puede aumentar innecesariamente
 
@@ -26,8 +26,8 @@ El nivel de abstraccion puede aumentar innecesariamente
         Gatito.__init__(self,color, 'Esfinge')
         self.feura = feo 
     def obtener_feura(self):
-        print(self.feura)`{{execute}}
+        print(self.feura)`{{copy}}
         
 `Tina = Esfinge('Piel','Horrenda')
-Tina.obtener_feura()`{{execute}}
+Tina.obtener_feura()`{{copy}}
 
