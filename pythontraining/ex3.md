@@ -1,6 +1,8 @@
 Escriba una funcion que importe el módulo random.
 
-Haga que esta función retorne un elemento random de una lista.
+Haga que esta función retorne un número aleatorio de la lista.
+
+Haga que cada vez que salga un número, este no vuelva a salir.
 
 La función reibe la lista como parámetro.
 
