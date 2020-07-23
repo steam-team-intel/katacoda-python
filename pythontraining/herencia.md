@@ -31,3 +31,6 @@ El nivel de abstraccion puede aumentar innecesariamente
 `Tina = Esfinge('Piel','Horrenda')
 Tina.obtener_feura()`{{copy}}
 
+
+### Para ejecutar desde consola
+`python3 archivodeprueba.py`{{copy}}
