@@ -8,7 +8,7 @@ x = 0
 while x<4:
     print(x)
     x = x+1
-```{{execute}}
+```{{copy}}
     
 Un ejemplo de while mas complejo:
 
@@ -23,7 +23,7 @@ while tarea: #Se ejecuta siempre que sea verdadero
 
 if tarea == False:
     print('Ya termine la tarea')
-```{{execute}}
+```{{copy}}
 
 Los fors son ciclos que se ejecutan una cierta cantidad de veces.
 
@@ -31,6 +31,10 @@ Los fors son ciclos que se ejecutan una cierta cantidad de veces.
 ```python
 for i in range(3):
     print(i)
-```{{execute}}
+```{{copy}}
 
 Note que corre hasta 2, la condicion de parada en python no es inclusiva.
+
+
+### Para ejecutar desde consola
+`python3 archivodeprueba.py`{{copy}}
