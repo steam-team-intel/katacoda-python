@@ -9,10 +9,5 @@ La función reibe la lista como parámetro.
 `def aleatorio(lista):`{{copy}}
 
 ### Recuerde que para ejecutar archivos desde un IDE
-Para crear un archivo basta escribir en la terminal:
 
-`touch archivodeprueba.py`{{execute}}
-
-Para ejecutar el archivo escriba en consola:
-
-`python3 archivodeprueba.py`{{execute}}
+`python3 archivodeprueba.py`{{copy}}
