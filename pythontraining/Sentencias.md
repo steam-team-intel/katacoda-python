@@ -5,10 +5,10 @@ Una sentencia es una instrucción que el intérprete de Python puede ejecutar.
 
 ```python
 print(1)
-```{{execute}}
+```{{copy}}
 
 Las sentencias son órdenes que se dan a la consola de Python.
 
 ```python
 print('Hola mundo')
-```{{execute}}
+```{{copy}}
