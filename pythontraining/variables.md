@@ -30,3 +30,5 @@ Megustaaprender
 
 Asigne su propia variable y compruebe el tipo de valor que contiene usando type()
 
+### Para ejecutar desde consola
+`python3 archivodeprueba.py`{{copy}}
