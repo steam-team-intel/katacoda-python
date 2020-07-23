@@ -9,9 +9,13 @@ La manera en la que se declara una clase es la siguiente:
         self.spp = especie
     def obtener_especie(self):
         print(self.spp)
-        `{{execute}}
+        `{{copy}}
 
 Creamos una instancia de la clase:
 
 `Mia = Mascota('Oso')
-Mia.obtener_especie()`{{execute}}
+Mia.obtener_especie()`{{copy}}
+
+
+### Para ejecutar desde consola
+`python3 archivodeprueba.py`{{copy}}
