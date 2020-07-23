@@ -6,7 +6,7 @@ El siguiente comando crea una tupla:
 `
 unatupla = (1, "banano", "piña")
 print(unatupla)
-`{{execute}}
+`{{copy}}
 
 El siguiente comando llama a un elemento de la tupla:
 
