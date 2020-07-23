@@ -5,26 +5,26 @@ Los operadores se utilizan para realizar diferentes cómputos: (>,<, >=, +,/).
 
 ```python>
 4>3
-```{{execute}}
+```{{copy}}
 
 
 ```python
 5/4
-```{{execute}}
+```{{copy}}
 
 Los operadores lógicos también existen:
 
 ```python
-1 and 0
-```{{execute}}
+True and False
+```{{copy}}
 
 ```python
-True and True
-```{{execute}}
+(4>6) or (5<4)
+```{{copy}}
 
-```python
-1 or 0
-```{{execute}}
 
 Escriba una expresión utilizando un operador con los números 3 y 6 que de como resultado True
+
+### Para ejecutar desde consola
+`python3 archivodeprueba.py`{{copy}}
 
