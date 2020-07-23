@@ -14,4 +14,8 @@ try:
 except:
     print("No se permite la división por cero")
 
-```{{execute}}
+```{{copy}}
+
+### Para ejecutar el archivo escriba en consola:
+
+`python3 archivodeprueba.py`{{copy}}
