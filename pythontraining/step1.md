@@ -1,4 +1,4 @@
-# Bienvenido al training de Python del Innovation Center
+# Bienvenidos al training de Python del Innovation Center
 
 Lo primero que vamos a hacer es correr la Python, esto se puede hacer en diferentes partes.
 
@@ -13,17 +13,17 @@ Si desea salir de la consola de python escriba:
 
 **Desde un IDE**
 
-Para crear un archivo basta escribir en la terminal:
+Para crear un archivo váyase a donde dice root, a la par hay una hoja con un más que dice new file.
+Colóquele nombre a su nuevo archivo, por ejemplo 
 
-`touch archivodeprueba.py`{{copy}}
+`archivodeprueba.py`{{copy}}
 
 Pruebe copiando esto en su archivo:
 
 `print(1)`{{copy}}
 
-Para ejecutar el archivo escriba en consola:
-
+Para ejecutar el archivo abra una nueva terminal.
+En las tres rayitas de la izquierda, donde dice terminal dele a new terminal.
+Escriba el siguiente comando:
 
 `python3 archivodeprueba.py`{{copy}}
-
-
