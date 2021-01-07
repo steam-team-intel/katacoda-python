@@ -1,4 +1,4 @@
-# ¡Bienvenidos al taller de Python de Iniciativas STEAM de Intel Costa Rica!
+## ¡Bienvenidos al taller de Python de Iniciativas STEAM de Intel Costa Rica!
 
 Lo primero que haremos será configurar el ambiente y ejecutar Python.
 
