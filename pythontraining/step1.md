@@ -1,29 +1,32 @@
-# Bienvenidos al training de Python del Innovation Center
+# ¡Bienvenidos al taller de Python de Iniciativas STEAM de Intel Costa Rica!
 
-Lo primero que vamos a hacer es correr la Python, esto se puede hacer en diferentes partes.
+Lo primero que haremos será configurar el ambiente y ejecutar Python.
 
-**Desde la terminal**
+Para este taller no es necesario instalar Python en su máquina. Para comenzar sólo será necesario:
 
-Para esto escriba 
-`python3`{{copy}}
+**1. Pasar a la pestaña "IDE"**
+**2. En "ROOT" en el explorador de archivos a la izquierda, podrá encontrar una opción para crear un nuevo archivo. Llamar al mismo "archivodeprueba.py"**
+**3. En el menú de íconos a la izquierda, seleccionar el primer ícono, y luego Terminal > New Terminal en el menú desplegable**
 
-Si desea salir de la consola de python escriba:
+***IMPORTANTE:*** Será necesario repetir estos pasos en caso de que al ambiente se desconecte por inactividad y tenga que refrescar la pestaña.
 
-`quit()`{{copy}}
+**Ejecución de Python**
 
-**Desde un IDE**
+Una vez se han completado estos pasos, podemos ejecutar Python en la terminal. Para esto sólo es necesario escribir: `python3`{{copy}}
 
-Para crear un archivo váyase a donde dice root, a la par hay una hoja con un más que dice new file.
-Colóquele nombre a su nuevo archivo, por ejemplo 
+Podrá observar como, mientras está en ejecución, Python le da diferentes opciones. Por ejemplo, puede probar a escribir "Credits".
 
-`archivodeprueba.py`{{copy}}
+Si desea salir de la consola de python escriba: `quit()`{{copy}}
 
-Pruebe copiando esto en su archivo:
+**Ejecución de un archivo .py**
 
-`print(1)`{{copy}}
+Puede utilizar al archivo "archivodeprueba.py" creado anteriormente. 
 
-Para ejecutar el archivo abra una nueva terminal.
-En las tres rayitas de la izquierda, donde dice terminal dele a new terminal.
-Escriba el siguiente comando:
+Pruebe copiando esto en su archivo: `print(1)`{{copy}}
+
+Para ejecutar el archivo, escriba el siguiente comando en la terminal:
 
 `python3 archivodeprueba.py`{{copy}}
+
+***TIP:*** En este taller ejecutaremos este archivo constantemente. Sin embargo, no será necesario que escriba el comando cada vez que lo necesite. 
+Puede presionar la flecha hacia arriba en su teclado para reutilizar comandos utilizados anteriormente.
