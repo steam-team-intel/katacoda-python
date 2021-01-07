@@ -1,22 +1,16 @@
 Una sentencia es una instrucción que el intérprete de Python puede ejecutar.
 
-## Ejecute la siguiente sentencia.
-
-
-```python
-print(1)
-```{{copy}}
-
-Las sentencias son órdenes que se dan a la consola de Python.
+## Ejecute la siguiente sentencia:
 
 ```python
-print('Hola mundo')
+print('Hola mundo!')
 ```{{copy}}
 
-## Comentarios
+Como podrá ver las sentencias son, en esencia, órdenes que se dan a la consola de Python.
 
-Los comentarios se señalan con # para una linea o con ''''''' para muchas líneas.
-Se ignora la porción de código marcada por estos. 
+```python
+print(2021)
+```{{copy}}
 
-### Para ejecutar desde consola
+***Recordatorio:*** Para ejecutar desde consola, ejecute:
 `python3 archivodeprueba.py`{{copy}}
