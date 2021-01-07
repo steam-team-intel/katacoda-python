@@ -12,5 +12,6 @@ Como podrá ver las sentencias son, en esencia, órdenes que se dan a la consola
 print(2021)
 ```{{copy}}
 
-***Recordatorio:*** Para ejecutar desde consola, ejecute:
+***Recordatorio:*** Para ejecutar desde consola, ingrese el comando:
+
 `python3 archivodeprueba.py`{{copy}}
