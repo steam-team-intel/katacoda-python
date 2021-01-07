@@ -1,7 +1,13 @@
 
 
 
-En Python existen cuatro tipos de datos: ints, floats, strings, o chars. Para comprobar el tipo de un dato basta con utilizar la instrucción type(), pruebe ejecutando las siguientes líneas.
+El concepto de tipo de datos es importante en programación, pues cada tipo de datos cuenta con una funcionalidad diferente.
+
+En Python se manejan varios tipos de datos de diferentes categorías. Los tipos más básicos y utilizados son *int, float, string* y *bool*.
+
+Sin embargo, existen muchos más, como *complex, list, tuple, dict, set, bytes* ...
+
+Para comprobar el tipo de un dato basta con hacer un llamado al método type(). Pruebe ejecutando las siguientes líneas.
 
 
 ```python
