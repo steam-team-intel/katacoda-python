@@ -1,5 +1,5 @@
 {
-  "title": "Fundamentos de programación en Python",
+  "title": "Fundamentos de Programación en Python",
   "description": "Talleres de Iniciativas STEAM: Python",
   "difficulty": "Principiante",
   "time": "3:00 h",
@@ -12,7 +12,7 @@
       "text": "Sentencias.md"
     },{
       "title": "Lección 3 - Formato",
-      "text": ""
+      "text": "recursive.md"
     },{
       "title": "Lección 4 - Tipos de datos",
       "text": "tiposdedatos.md"
