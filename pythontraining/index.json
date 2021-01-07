@@ -1,11 +1,11 @@
 {
-  "title": "Fundamentos de Programación en Python",
+  "title": "Programación en Python",
   "description": "Talleres de Iniciativas STEAM: Python",
   "difficulty": "Principiante",
   "time": "3:00 h",
   "details": {
     "steps": [{
-      "title": "Lección 1 - Ejecución de Python",
+      "title": "Lección 1 - Ejecutar Python",
       "text": "step1.md"
     },{
       "title": "Lección 2 - Sentencias",
