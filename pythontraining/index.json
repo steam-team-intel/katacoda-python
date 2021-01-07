@@ -1,63 +1,57 @@
 {
-  "title": "Introducción a Python",
-  "description": "IC Python",
+  "title": "Fundamentos de programación en Python",
+  "description": "Talleres de Iniciativas STEAM: Python",
   "difficulty": "Principiante",
-  "time": "1:00 h",
+  "time": "3:00 h",
   "details": {
     "steps": [{
-      "title": "Lección 1 - Correr Python",
+      "title": "Lección 1 - Ejecución de Python",
       "text": "step1.md"
     },{
       "title": "Lección 2 - Sentencias",
       "text": "Sentencias.md"
     },{
-      "title": "Lección 3 - Tipos de datos",
+      "title": "Lección 3 - Formato",
+      "text": ""
+    },{
+      "title": "Lección 4 - Tipos de datos",
       "text": "tiposdedatos.md"
     },{
-      "title": "Lección 4 - Variables",
+      "title": "Lección 5 - Variables",
       "text": "variables.md"
     },{
-      "title": "Lección 5 - Operadores",
+      "title": "Lección 6 - Operadores",
       "text": "operadores.md"
     },{
-      "title": "Lección 6 - Herramientas de control de flujo",
+      "title": "Lección 7 - Control de flujo: Condicionales",
       "text": "controlflujoif.md"
     },{
-      "title": "Ejercicio 1: Sobre logica",
+      "title": "Lección 8 - Ejercicio 1: Sobre lógica",
       "text": "ex1.md"
     },{
-      "title": "Lección 6 - Herramientas de control de flujo",
+      "title": "Lección 9 - Control de flujo: Ciclos",
       "text": "controlflujociclos.md"
     },{
-      "title": "Lección 7 - Estructuras de datos",
+      "title": "Lección 10 - Estructuras de datos: Listas",
       "text": "listas.md"
     },{
-      "title": "Lección 7 - Estructuras de datos",
+      "title": "Lección 11 - Estructuras de datos: Tuplas",
       "text": "tuplas.md"
     },{
-      "title": "Lección 7 - Estructuras de datos",
+      "title": "Lección 12 - Estructuras de datos: Conjuntos",
       "text": "sets.md"
     },{
-      "title": "Lección 7 - Estructuras de datos",
+      "title": "Lección 13 - Estructuras de datos: Diccionarios",
       "text": "diccionarios.md"
     },{
-      "title": "Lección 8 - Funciones",
+      "title": "Lección 14 - Funciones",
       "text": "funciones.md"
     },{
-      "title": "Ejercicio 2: Sobre funciones",
+      "title": "Lección 15 - Ejercicio 2: Sobre funciones",
       "text": "ex2.md"
     },{
-      "title": "Lección 9 - Clases",
+      "title": "Lección 16 - Programación Orientada a Objetos en Python: Clases",
       "text": "clases.md"
-    },{
-      "title": "Ejercicio 4: Clases",
-      "text": "ex4.md"
-    },{
-      "title": "Lección 10 - Módulos",
-      "text": "modulos.md"
-    },{
-      "title": "Ejercicio 3: Importar Modulos",
-      "text": "ex3.md"
     }],
     "intro": {
       "text": "intro.md",
