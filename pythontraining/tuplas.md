@@ -1,23 +1,19 @@
-## Tuplas
+Las tuplas almacenan datos de cualquier tipo, son ordenadas y no se pueden modificar.
 
-Las tuplas son colecciones ordenadas de elementos no modificables de tamano definido. En Python se escriben con parentesis.
+La siguiente sentencia crea una tupla:
 
-El siguiente comando crea una tupla:
-`
-unatupla = (1, "banano", "piña")
-print(unatupla)
+`tupla_ejemplo = ('números', 50, 'colores', 7)
+print('elementos de tupla: ', tupla_ejemplo)
+print('primer elemento: ', tupla_ejemplo[0])
 `{{copy}}
 
-El siguiente comando llama a un elemento de la tupla:
+La siguiente sentencia llama a un elemento de la tupla por medio de su índice:
 
-`
-unatupla[1]
+`print('primer elemento: ', tupla_ejemplo[0])
 `{{copy}}
 
-Las tuplas no se pueden modificar. Intenta hacerlo: 
+Intente modificar la tupla y analice el resultado obtenido. 
 
-`
-unatupla[1] = 'caña'`{{copy}}
+***Recordatorio:*** Para ejecutar desde consola, ingrese el comando:
 
-### Para ejecutar desde consola
 `python3 archivodeprueba.py`{{copy}}
