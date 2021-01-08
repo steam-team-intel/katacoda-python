@@ -1,5 +1,3 @@
-## if,else,elif
-
 Las herramientas de control de flujo regulan la ejecución de porciones de código dependiendo de diferentes parámetros o variables.
 
 Las condicionales sirven para ejecutar una porción de código si una premisa es verdadera.
