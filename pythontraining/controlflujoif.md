@@ -1,36 +1,48 @@
 ## if,else,elif
 
 Las herramientas de control de flujo regulan la ejecución de porciones de código dependiendo de diferentes parámetros o variables.
-Los ifs se ejecutan si la porción de código que sigue después del if precede es verdadera.
-if **a>b**:
 
-
+Las condicionales sirven para ejecutar una porción de código si una premisa es verdadera.
 
 ```python
-if (4==8):
-    print('No se matematicas')
-else:
-    print('Si se matemáticas')
+if (4==8): # Si 4 es igual a 8
+    print('No sé matemáticas')
+else: # En caso de que 4 no sea igual a 8
+    print('Sí sé matemáticas')
 ```{{copy}}
 
-Los elifs sirven para probar otras condiciones ademas de la inicial
-Cambie los valores de una_variable de manera que logre obtener las tres salidas.
-
+Los elifs sirven para encadenar varias condiciones, y comprobar las mismas:
 
 ```python
-una_variable = 40```{{copy}}
-
-```python
-if una_variable > 10:
-    print('La variable es completamente mas grande que 10.')
-elif una_variable < 10:
-    print('una_variable es mas chica que 10')
+num = 40
+if num > 10:
+    print('El número es más grande que 10.')
+elif num < 10:
+    print('El número es más pequeño que 10.')
 else: 
-    print('una_variable es de hecho 10.')
+    print('El número es, de hecho, 10.')
 ```{{copy}}
 
-Utilizando el código anterior, modifíquelo para obtener 'una variable es de hecho 10'.
+Utilizando el código anterior, cambie los valores de la variable "num" de manera que logre obtener las tres salidas. 
 
+También es posible anidar condicionales, es decir, comprobar unas condiciones dentro de otras:
 
-### Para ejecutar desde consola
+```python
+x=3
+color='azul'
+
+if color == 'azul':
+    if x>10:
+        print('x es grande')
+    elif x>0:
+        print('x es pequeño')
+    else:
+        print('x es negativo')
+else:
+    print('el color no es azul!')
+```{{copy}}
+
+***Recordatorio:*** Para ejecutar desde consola, ingrese el comando:
+
 `python3 archivodeprueba.py`{{copy}}
+
