@@ -12,9 +12,9 @@ frase = "Hola humanos"
 print(x)
 ```{{copy}}
 
+**Tipo entero** 
 En el siguiente ejemplo, se puede hacer referencia a x para hacer una suma, sin especificar su valor explícitamente:
 
-**Tipo entero** 
 ```python
 x = 2
 print(x + 4)
