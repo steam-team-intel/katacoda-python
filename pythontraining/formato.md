@@ -24,3 +24,8 @@ Si bien la legibilidad del código siempre es importante, en Python es particula
 La indentación es el margen antes de iniciar una línea, y denota la jerarquía que debe seguir el código al ejecutarse.
 
 En Python, un código mal indentado puede potencialmente dar error, aunque la lógica sea correcta.
+
+***Recordatorio:*** Para ejecutar desde consola, ingrese el comando:
+
+`python3 archivodeprueba.py`{{copy}}
+
