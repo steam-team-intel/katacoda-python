@@ -1,4 +1,3 @@
-
 Las variables son nombres que tienen asociado un tipo de valor y un valor, algo así como una referencia.
 
 Decimos que una variable (en general, cualquier objeto en programación) tiene un nombre significativo cuando este especifica su utilidad o contenido.
@@ -8,7 +7,7 @@ En Python no es necesario declarar las variables ni especificar su tipo de datos
 **Tipo string** 
 
 ```python
-frase = "Hola humanos"
+frase = "Hola mundo"
 print(x)
 ```{{copy}}
 
@@ -23,7 +22,7 @@ print(x + 4)
 
 **Tipo float** 
 ```python
-pi = 3.1451
+pi = 3.1415
 print(pi)
 ```{{copy}}
 
