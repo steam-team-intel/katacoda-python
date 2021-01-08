@@ -1,4 +1,4 @@
-###Ciclos while  
+## Ciclos while  
 Los ciclos while ejecutan una porción de código en bucle mientras una premisa sea verdadera.
 
 Cada ejecución de dicha porción de código se llama una iteración. La condición se verifica al principio de cada iteración, para determinar si el ciclo debe romperse.
@@ -33,7 +33,7 @@ if tarea == False:
     print('Ya termine la tarea')
 ```{{copy}}
 
-###Ciclos for  
+## Ciclos for  
 
 Los ciclos for se ejecutan una cantidad específica de veces.
 
