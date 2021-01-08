@@ -1,17 +1,23 @@
 
-Las variables son contenedores a los que se les puede asignar un valor, un objeto, una sentencia.
+Las variables son nombres que tienen asociado un tipo de valor y un valor, algo así como una referencia.
+
+Decimos que una variable (en general, cualquier objeto en programación) tiene un nombre significativo cuando este especifica su utilidad o contenido.
+
+En Python no es necesario declarar las variables ni especificar su tipo de datos. Las variables se crean al asignarles valor.
 
 **Tipo string** 
 
 ```python
-x = "Hola humanos"
+frase = "Hola humanos"
 print(x)
 ```{{copy}}
+
+En el siguiente ejemplo, se puede hacer referencia a x para hacer una suma, sin especificar su valor explícitamente:
 
 **Tipo entero** 
 ```python
 x = 2
-x + 4
+print(x + 4)
 ```{{copy}}
 
 **Tipo float** 
@@ -20,15 +26,15 @@ pi = 3.1451
 print(pi)
 ```{{copy}}
 
-**Tipo logico o booleano** 
-
+**Tipo booleano** 
 ```python
-#Tipo bool
 Megustaaprender = True
-Megustaaprender
+print(Megustaaprender)
 ```{{copy}}
 
-Asigne su propia variable y compruebe el tipo de valor que contiene usando type()
+Intente asignar su propia variable y compruebe el tipo de valor que contiene usando type()
 
-### Para ejecutar desde consola
+***Recordatorio:*** Para ejecutar desde consola, ingrese el comando:
+
 `python3 archivodeprueba.py`{{copy}}
+
