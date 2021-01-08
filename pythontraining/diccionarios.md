@@ -1,15 +1,14 @@
-## Diccionarios
+Los diccionarios son colecciones no ordenadas de pares de elementos.
 
-Los diccionarios son colecciones no ordenadas de elementos asociados a una llave determinada.
+Estos pares se componen de llaves únicas y elementos asociados a las mismas.
 
-`
-ViviendaStudents = {'Mariana': 'San Jose', 'Fabiola': 'Alajuela','Jafeth': 'Heredia' }
-ViviendaStudents['Mariana']`{{copy}}
+En la siguiente porción de código se crea un diccionario y se verifican sus valores:
+`estudiantes_residencia = {'Ingrid': 'Alajuela', 'Valeria': 'San Jose','Luis': 'Puntarenas' }
+print('Pares en diccionario: ', estudiantes_residencia)
+print('Estudiantes:', list(estudiantes_residencia))
+print('Luis proviene de', estudiantes_residencia['Luis'])
+`{{copy}}
 
-
-`
-list(ViviendaStudents)`{{copy}}
-
-### Para ejecutar el archivo escriba en consola:
+***Recordatorio:*** Para ejecutar desde consola, ingrese el comando:
 
 `python3 archivodeprueba.py`{{copy}}
