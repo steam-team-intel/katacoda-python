@@ -1,38 +1,38 @@
-## Listas
+Las listas almacenan datos de cualquier tipo, son ordenadas y se pueden modificar.
 
-Las listas almacenan datos de cualquier tipo, no todos tienen que ser iguales. 
-La cantidad de datos en una lista es accesible a traves del comando _len()_
-
-Este comando crea una lista vacía:
+Se puede crear una lista vacía mediante la siguiente sentencia:
 
 `mi_lista = []
 print(mi_lista)`{{copy}}
 
+Esta sentencia crea una lista de enteros:
 
-Este comando crea una lista de enteros:
-`mi_lista = [1, 2, 3]
+`mi_lista = [1, 2, 3, 4]
 print(mi_lista)`{{copy}}
 
-Este comando crea una lista de datos mixtos:
+Y esta sentencia crea una lista de datos mixtos:
 
-`mi_lista = [1, "Hello", 3.4]
+`mi_lista = ['hello', 9.6, 24, 'goodbye']
 print(mi_lista)`{{copy}}
 
-Este comando obtiene un objeto de la lista por índice:
+Al ser ordenadas, podemos obtener y modificar elementos por posición, por medio de lo que llamamos su índice:
 
-`print(mi_lista[1])`{{copy}}
+`mi_lista = ['hello', 9.6, 24, 'goodbye']
+print(mi_lista[0])
+mi_lista[0] = 'hola'
+print(mi_lista)`{{copy}}
 
-Este comando obtiene el tamaño de una lista:
+Existen varios métodos para gestionar listas. Por ejemplo, con len() se obtiene el tamaño de una lista:
 
 `len(mi_lista)`{{copy}}
 
-Uno puede modificar elementos de una lista:
-`mi_lista[1] = "Hola Fabi" `{{copy}}
-
-Este comando inserta un elemento en dada posición de la lista:
+Y el método insert() inserta un elemento en dada posición de la lista:
 
 `mi_lista.insert(0,'hola')
 print(mi_lista)`{{copy}}
 
-### Para ejecutar desde consola
+Mientras que append() inserta un elemento al final. Pruebe insertar un elemento de cualquier tipo al final de mi_lista.
+
+***Recordatorio:*** Para ejecutar desde consola, ingrese el comando:
+
 `python3 archivodeprueba.py`{{copy}}
