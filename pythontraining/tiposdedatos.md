@@ -11,28 +11,29 @@ Para comprobar el tipo de un dato basta con hacer un llamado al método type(). 
 
 
 ```python
-type(1)
+print(type(1))
 ```{{copy}}
 
 ```python
-type(3.4)
+print(type(3.4))
 ```{{copy}}
 
 ```python
-type('hola')
+print(type('hola'))
 ```{{copy}}
-
 
 ```python
-type('a')
+print(type(True))
 ```{{copy}}
 
-¿Qué tipo tendrá la siguiente línea 1B?
-
+En Python también es posible especificar un tipo de datos si se desea:
 
 ```python
-type(1B)
+frase = str("Hello World!")
+num = int(2021)
+print(type(frase),type(num))
 ```{{copy}}
 
-### Para ejecutar desde consola
+***Recordatorio:*** Para ejecutar desde consola, ingrese el comando:
+
 `python3 archivodeprueba.py`{{copy}}
