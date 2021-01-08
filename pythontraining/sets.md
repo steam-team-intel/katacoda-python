@@ -1,18 +1,23 @@
-## Sets o conjuntos
+Los conjuntos son colecciones de datos no ordenados y únicos, se pueden modificar y se les pueden aplicar operaciones de conjuntos matemáticos.
 
-Son colecciones de datos no ordenados y unicos, tienen los mismos operadores de los conjuntos matematicos
+El siguiente código crea un conjunto. Pruebe ejecutarlo varias veces y analice el resultado obtenido:
 
-
-`canasta = {'manzana', 'naranja', 'manzana', 'pera', 'naranja', 'banano'}
-canasta
+`canasta_frutas = {'manzana', 'naranja', 'manzana', 'pera', 'naranja', 'banano'}
+print('Elementos canasta: ', canasta_frutas)
 `{{copy}}
 
-Los elementos repetidos se obvian. 
-Los conjuntos tienen los operadores de conjuntos matemáticos: 
+Como podrá observar, los elementos repetidos se obvian. 
 
+Tal y como en los conjuntos matemáticos, se puede verificar la pertenencia de un elemento a un conjunto:
 
-`
-'banano' in canasta`{{copy}}
+`print('Hay papaya? ', 'papaya' in canasta_frutas)
+`{{copy}}
 
-### Para ejecutar desde consola
+Dado que no hay papaya, podemos modificar el conjunto y añadir este elemento:
+`canasta_frutas.add('papaya')
+print('Elementos canasta: ', canasta_frutas)
+`{{copy}}
+
+***Recordatorio:*** Para ejecutar desde consola, ingrese el comando:
+
 `python3 archivodeprueba.py`{{copy}}
