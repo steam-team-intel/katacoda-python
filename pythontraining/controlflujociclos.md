@@ -16,7 +16,7 @@ while estudiantes: #mientras haya elementos en la lista
     print(estudiantes.pop(-1)) #imprime estudiante y lo saca de la lista
 ```{{copy}}
 
-***PD:***Veremos más sobre listas y su manejo más adelante. 
+***PD: ***Veremos más sobre listas y su manejo más adelante. 
     
 Otro ejemplo de while donde se ve claramente cómo se verifican las condiciones:
 
