@@ -1,0 +1,73 @@
+{
+  "title": "Python Programming",
+  "description": "STEAM Initiatives Webinar: Python",
+  "difficulty": "Begginer",
+  "time": "3:00 h",
+  "details": {
+    "steps": [{
+      "title": "Lesson 1 - Running Python",
+      "text": "step1.md"
+    },{
+      "title": "Lesson 2 - Statements",
+      "text": "statements.md"
+    },{
+      "title": "Lesson 3 - Format",
+      "text": "format.md"
+    },{
+      "title": "Lesson 4 - Data Types",
+      "text": "datatypes.md"
+    },{
+      "title": "Lesson 5 - Variables",
+      "text": "variables.md"
+    },{
+      "title": "Lesson 6 - Operators",
+      "text": "operators.md"
+    },{
+      "title": "Lesson 7 - Flow Control: Conditionals",
+      "text": "flowcontrolif.md"
+    },{
+      "title": "Lesson 8 - Exercise 1: About Logic",
+      "text": "ex1.md"
+    },{
+      "title": "Lesson 9 - Flow Control: Loops",
+      "text": "flowcontrolloops.md"
+    },{
+      "title": "Lesson 10 - Data Structures: Lists",
+      "text": "lists.md"
+    },{
+      "title": "Lesson 11 - Data Structures: Tuples",
+      "text": "tuples.md"
+    },{
+      "title": "Lesson 12 - Data Structures: Sets",
+      "text": "sets.md"
+    },{
+      "title": "Lesson 13 - Data Structures: Dictionaries",
+      "text": "dictionaries.md"
+    },{
+      "title": "Lesson 14 - Functions",
+      "text": "functions.md"
+    },{
+      "title": "Lesson 15 - Exercise 2: About Functions",
+      "text": "ex2.md"
+    },{
+      "title": "Lesson 16 - Object Oriented Programming: Class",
+      "text": "class.md"
+    }],
+    "intro": {
+      "text": "intro.md",
+      "credits": ""
+    },
+    "finish": {
+      "text": "finish.md"
+    }
+  },
+  "environment": {
+    "showide": true,
+    "idePort": 23000,
+    "hideintro": true,
+    "uilayout": "terminal"
+  },
+  "backend": {
+    "imageid": "ubuntu"
+  }
+}
