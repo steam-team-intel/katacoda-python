@@ -1,6 +1,6 @@
-Buenos días, 
+Good morning, 
 
-## ¡Bienvenidos al taller de Python de Iniciativas STEAM de Intel Costa Rica!
+## Welcome to the STEAM Initiatives Python Webinar from Intel, Costa Rica!
 
 The first thing we will do is configure the environment and run Python.
 
