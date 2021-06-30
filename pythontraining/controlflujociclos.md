@@ -3,6 +3,19 @@ Los ciclos while ejecutan una porción de código en bucle mientras una premisa 
 
 Cada ejecución de dicha porción de código se llama una iteración. La condición se verifica al principio de cada iteración, para determinar si el ciclo debe romperse.
 
+
+```python
+# Ciclo while que espera hasta que se tire un 0
+num = "no"
+while num != "0":  # This constructs an infinite loop
+   num = input("Ingrese un número, digite 0 para salir:")
+   print ("Usted ingresó: ", num)
+
+ 
+
+print ("Se salió del WHILE")
+```{{copy}}
+
 ```python
 x = 0
 while x<5:
