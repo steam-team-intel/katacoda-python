@@ -27,6 +27,7 @@ Existen varios métodos para gestionar listas. Por ejemplo, con len() se obtiene
 `len(mi_lista)`{{copy}}
 
 Si se quiere añadir un elemento mas a una lista se puede utilizar append():
+
 `mi_lista.append('adios')
 print(mi_lista)`{{copy}}
 
