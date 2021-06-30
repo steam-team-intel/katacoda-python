@@ -2,6 +2,11 @@ Buenos días,
 
 ## ¡Bienvenidos al taller de Python de Iniciativas STEAM de Intel Costa Rica!
 
+
+`touch archivodeprueba.py`{{execute}}
+
+`archivodeprueba`{{open}}
+
 Lo primero que haremos será configurar el ambiente y ejecutar Python.
 
 Para este taller no es necesario instalar Python en su máquina. Para comenzar sólo será necesario:
