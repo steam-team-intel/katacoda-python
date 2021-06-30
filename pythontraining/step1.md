@@ -2,19 +2,14 @@ Buenos días,
 
 ## ¡Bienvenidos al taller de Python de Iniciativas STEAM de Intel Costa Rica!
 
-`archivodeprueba.py`{{open}}
+
 
 Lo primero que haremos será configurar el ambiente y ejecutar Python.
 
 Para este taller no es necesario instalar Python en su máquina. Para comenzar sólo será necesario:
 
-**1.** Pasar a la pestaña "IDE".  
+**1.** Darle click al siguiente enlace  `archivodeprueba.py`{{open}}. El cual creara una archivo de python en el cual puede empezar a programar
 
-**2.** En "ROOT" en el explorador de archivos a la izquierda, podrá encontrar una opción para crear un nuevo archivo. Llamar al mismo "archivodeprueba.py".  
-
-**3.** En el menú de íconos a la izquierda, seleccionar el primer ícono, y luego Terminal > New Terminal en el menú desplegable.  
-
-***IMPORTANTE:*** Será necesario repetir estos pasos en caso de que al ambiente se desconecte y tenga que refrescar la pestaña.
 
 **Ejecución de Python**
 
