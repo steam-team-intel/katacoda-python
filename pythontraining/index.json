@@ -11,14 +11,14 @@
       "title": "Lección 2 - Sentencias",
       "text": "Sentencias.md"
     },{
-      "title": "Lección 3 - Formato",
+      "title": "Lección 3 - Variables",
+      "text": "variables.md"
+    },{
+      "title": "Lección 4 - Formato",
       "text": "formato.md"
     },{
-      "title": "Lección 4 - Tipos de datos",
+      "title": "Lección 5 - Tipos de datos",
       "text": "tiposdedatos.md"
-    },{
-      "title": "Lección 5 - Variables",
-      "text": "variables.md"
     },{
       "title": "Lección 6 - Operadores",
       "text": "operadores.md"
@@ -35,23 +35,8 @@
       "title": "Lección 10 - Estructuras de datos: Listas",
       "text": "listas.md"
     },{
-      "title": "Lección 11 - Estructuras de datos: Tuplas",
-      "text": "tuplas.md"
-    },{
-      "title": "Lección 12 - Estructuras de datos: Conjuntos",
-      "text": "sets.md"
-    },{
-      "title": "Lección 13 - Estructuras de datos: Diccionarios",
-      "text": "diccionarios.md"
-    },{
-      "title": "Lección 14 - Funciones",
-      "text": "funciones.md"
-    },{
-      "title": "Lección 15 - Ejercicio 2: Sobre funciones",
+      "title": "Lección 11 - Ejercicio 2: Sobre funciones",
       "text": "ex2.md"
-    },{
-      "title": "Lección 16 - Programación Orientada a Objetos en Python: Clases",
-      "text": "clases.md"
     }],
     "intro": {
       "text": "intro.md",
@@ -62,10 +47,7 @@
     }
   },
   "environment": {
-    "showide": true,
-    "idePort": 23000,
-    "hideintro": true,
-    "uilayout": "terminal"
+    "uilayout": "editor-terminal"
   },
   "backend": {
     "imageid": "ubuntu"
