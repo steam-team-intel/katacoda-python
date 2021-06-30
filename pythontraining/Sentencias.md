@@ -25,4 +25,4 @@ Podrá observar como el archivo se ejecuta correctamente, pero no muestra nada e
 
 ***Recordatorio:*** Para ejecutar desde consola, ingrese el comando:
 
-`python3 archivodeprueba.py`{{copy}}
+`python3 archivodeprueba.py`{{execute}}
