@@ -36,7 +36,7 @@ Pruebe copiando esto en su archivo:
 
 Para ejecutar el archivo, escriba el siguiente comando en la terminal:
 
-`python3 archivodeprueba.py`{{copy}}
+`python3 archivodeprueba.py`{{execute}}
 
 ***TIP:*** En este taller ejecutaremos este archivo constantemente. Sin embargo, no será necesario que escriba el comando cada vez que lo necesite. 
 Puede presionar la flecha hacia arriba en su teclado para reutilizar comandos utilizados anteriormente.
