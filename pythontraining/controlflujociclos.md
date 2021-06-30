@@ -60,4 +60,4 @@ for i in range(2, 20, 2): #empieza en 2, debe ser menor que 20, incrementa i de 
 
 ***Recordatorio:*** Para ejecutar desde consola, ingrese el comando:
 
-`python3 archivodeprueba.py`{{copy}}
+`python3 archivodeprueba.py`{{execute}}
