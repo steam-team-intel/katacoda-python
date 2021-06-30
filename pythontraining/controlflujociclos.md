@@ -10,9 +10,6 @@ num = "no"
 while num != "0":  # This constructs an infinite loop
    num = input("Ingrese un número, digite 0 para salir:")
    print ("Usted ingresó: ", num)
-
- 
-
 print ("Se salió del WHILE")
 ```{{copy}}
 
