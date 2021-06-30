@@ -2,10 +2,7 @@ Buenos días,
 
 ## ¡Bienvenidos al taller de Python de Iniciativas STEAM de Intel Costa Rica!
 
-
-`touch archivodeprueba.py`{{execute}}
-
-`archivodeprueba`{{open}}
+`archivodeprueba.py`{{open}}
 
 Lo primero que haremos será configurar el ambiente y ejecutar Python.
 
