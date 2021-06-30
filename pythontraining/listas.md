@@ -35,4 +35,4 @@ Mientras que append() inserta un elemento al final. Pruebe insertar un elemento 
 
 ***Recordatorio:*** Para ejecutar desde consola, ingrese el comando:
 
-`python3 archivodeprueba.py`{{copy}}
+`python3 archivodeprueba.py`{{execute}}
