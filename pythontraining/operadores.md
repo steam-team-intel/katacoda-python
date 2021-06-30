@@ -41,4 +41,4 @@ Escriba una expresión utilizando un operador con los números 3 y 6 que de como
 
 ***Recordatorio:*** Para ejecutar desde consola, ingrese el comando:
 
-`python3 archivodeprueba.py`{{copy}}
+`python3 archivodeprueba.py`{{execute}}
