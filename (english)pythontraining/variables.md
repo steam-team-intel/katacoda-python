@@ -36,5 +36,5 @@ Try assigning your own variable and check the type of value it contains using ty
 
 ***Reminder:*** To run from console, enter the command:
 
-`python3 testfile.py`{{copy}}
+`python3 testfile.py`{{execute}}
 
