@@ -41,4 +41,4 @@ Write an expression using an operator with the numbers 3 and 6 that results in T
 
 ***Reminder:*** To run from console, enter the command:
 
-`python3 testfile.py`{{copy}}
+`python3 testfile.py`{{execute}}
