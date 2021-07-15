@@ -59,4 +59,4 @@ for i in range(2, 20, 2): #starts at 2, it must be less than 20, increments i tw
 
 ***Reminder:*** To run from console, enter the command:
 
-`python3 testfile.py`{{copy}}
+`python3 testfile.py`{{execute}}
