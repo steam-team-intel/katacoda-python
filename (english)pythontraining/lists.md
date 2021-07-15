@@ -35,4 +35,4 @@ Whereas append() inserts an element at the end. Try inserting an element of any 
 
 ***Reminder:*** To run from console, enter the command:
 
-`python3 testfile.py`{{copy}}
+`python3 testfile.py`{{execute}}
