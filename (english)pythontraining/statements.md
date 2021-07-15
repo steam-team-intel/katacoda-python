@@ -25,4 +25,4 @@ You can see how the file runs correctly, but it doesn't show anything on the con
 
 ***Reminder:*** To run from console, enter the command:
 
-`python3 testfile.py`{{copy}}
+`python3 testfile.py`{{execute}}
