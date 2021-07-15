@@ -27,4 +27,4 @@ In Python, badly indented code can potentially fail, even if the logic is correc
 
 ***Reminder:*** To run from console, enter the command:
 
-`python3 testfile.py`{{copy}}
+`python3 testfile.py`{{execute}}
