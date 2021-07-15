@@ -11,14 +11,14 @@
       "title": "Lesson 2 - Statements",
       "text": "statements.md"
     },{
-      "title": "Lesson 3 - Format",
+      "title": "Lesson 3 - Variables",
+      "text": "variables.md"
+    },{
+      "title": "Lesson 4 - Format",
       "text": "format.md"
     },{
-      "title": "Lesson 4 - Data Types",
+      "title": "Lesson 5 - Data Types",
       "text": "datatypes.md"
-    },{
-      "title": "Lesson 5 - Variables",
-      "text": "variables.md"
     },{
       "title": "Lesson 6 - Operators",
       "text": "operators.md"
@@ -35,23 +35,8 @@
       "title": "Lesson 10 - Data Structures: Lists",
       "text": "lists.md"
     },{
-      "title": "Lesson 11 - Data Structures: Tuples",
-      "text": "tuples.md"
-    },{
-      "title": "Lesson 12 - Data Structures: Sets",
-      "text": "sets.md"
-    },{
-      "title": "Lesson 13 - Data Structures: Dictionaries",
-      "text": "dictionaries.md"
-    },{
-      "title": "Lesson 14 - Functions",
-      "text": "functions.md"
-    },{
-      "title": "Lesson 15 - Exercise 2: About Functions",
+      "title": "Lesson 11 - Exercise 2: About Functions",
       "text": "ex2.md"
-    },{
-      "title": "Lesson 16 - Object Oriented Programming: Class",
-      "text": "class.md"
     }],
     "intro": {
       "text": "intro.md",
@@ -62,6 +47,7 @@
     }
   },
   "environment": {
+    "hideintro": true,
     "uilayout": "editor-terminal"
   },
   "backend": {
