@@ -47,7 +47,6 @@
     }
   },
   "environment": {
-    "hideintro": false,
     "uilayout": "editor-terminal"
   },
   "backend": {
