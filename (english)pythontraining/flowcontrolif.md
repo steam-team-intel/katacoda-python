@@ -43,5 +43,5 @@ else:
 
 ***Reminder:*** To run from console, enter the command:
 
-`python3 testfile.py`{{copy}}
+`python3 testfile.py`{{execute}}
 
