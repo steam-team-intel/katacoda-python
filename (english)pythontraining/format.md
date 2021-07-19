@@ -17,7 +17,7 @@ print('I want this line to be executed')
 print(phrase)'''
 ```{{copy}}
 
-## Indentación
+## Indentation
 
 While code readability is always important, in Python it is particularly vital.
 
