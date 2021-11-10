@@ -1,19 +1,10 @@
-**¡Bienvenido al training de python del IC!**
+**¡Bienvenido al training de C de STEAM Vocacional !**
 
 En este training veremos:
-* Ejecución de Python
-* Sentencias
+* Ejecución de C
 * Tipos de datos
 * Variables
-* Operadores
 * Comentarios
-* Identación
 * Herramientas de control de flujo
-* Estructuras de datos
-* Funciones
-* Clases
-* Módulos
-* Herencia
-* Recursividad
-
+* Estructuras 
 ¡Manos a la obra!
