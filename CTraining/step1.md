@@ -3,46 +3,27 @@ Buenos días,
 ## ¡Bienvenidos al taller de C de Iniciativas STEAM de Intel Costa Rica!
 
 
-
-Lo primero que haremos será configurar el ambiente y ejecutar C.
+Lo primero que haremos será configurar el ambiente, compilar y ejecutar C.
 
 Para este taller no es necesario instalar C en su computadora. Para comenzar sólo será necesario:
 
-**1.** Darle click al siguiente enlace  `archivodeprueba.c`{{open}}. El cual creara una archivo de python en el cual puede empezar a programar
+**1.** Darle click al siguiente enlace  `archivodeprueba.c`{{open}}. El cual creara una archivo de c en el cual puede empezar a programar.
 
-**Hola Mundo Python**
-```python
-condicion1 = True
-condicion2 = False
-print(condicion1 and condicion2) 
-print(condicion1 or condicion2) 
-print(not condicion2)
-```{{copy}}
-
+Para 
 **Hola Mundo C**
 ```python
-condicion1 = True
-condicion2 = False
-print(condicion1 and condicion2) 
-print(condicion1 or condicion2) 
-print(not condicion2)
+int main()
+{
+    printf("Hello World"); 
+}
 ```{{copy}}
+
 **Compilación de C**
 
 Una vez se han completado estos pasos, podemos compilar c en la terminal. Para esto sólo es necesario escribir: 
 
 `gcc archivodeprueba.c -o programa`{{copy}}
 
-
-Si desea salir de la consola de c escriba: 
-
-```#include <stdio.h>
-
-int main()
-{
-    printf("Hello World"); 
-}
-```{{copy}}
 
 **Ejecución de un archivo .c**
 
