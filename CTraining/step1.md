@@ -24,10 +24,9 @@ Si desea salir de la consola de c escriba:
 
 int main()
 {
-    printf("Hello World");
-
-   
-}```{{copy}}
+    printf("Hello World"); 
+}
+```{{copy}}
 
 **Ejecución de un archivo .c**
 
