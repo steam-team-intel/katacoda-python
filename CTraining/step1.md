@@ -10,7 +10,23 @@ Para este taller no es necesario instalar C en su computadora. Para comenzar só
 
 **1.** Darle click al siguiente enlace  `archivodeprueba.c`{{open}}. El cual creara una archivo de python en el cual puede empezar a programar
 
+**Hola Mundo Python**
+```python
+condicion1 = True
+condicion2 = False
+print(condicion1 and condicion2) 
+print(condicion1 or condicion2) 
+print(not condicion2)
+```{{copy}}
 
+**Hola Mundo C**
+```python
+condicion1 = True
+condicion2 = False
+print(condicion1 and condicion2) 
+print(condicion1 or condicion2) 
+print(not condicion2)
+```{{copy}}
 **Compilación de C**
 
 Una vez se han completado estos pasos, podemos compilar c en la terminal. Para esto sólo es necesario escribir: 
@@ -31,7 +47,6 @@ int main()
 **Ejecución de un archivo .c**
 
 Puede utilizar al archivo "archivodeprueba.c" creado anteriormente. 
-
 
 Para ejecutar el archivo, escriba el siguiente comando en la terminal:
 
