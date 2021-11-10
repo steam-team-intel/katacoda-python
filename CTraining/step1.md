@@ -27,7 +27,7 @@ int main()
     printf("Hello World");
 
    
-}`{{copy}}
+}```{{copy}}
 
 **Ejecución de un archivo .c**
 
