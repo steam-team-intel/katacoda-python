@@ -6,7 +6,7 @@ Buenos días,
 
 Lo primero que haremos será configurar el ambiente y ejecutar C.
 
-Para este taller no es necesario instalar Python en su máquina. Para comenzar sólo será necesario:
+Para este taller no es necesario instalar C en su computadora. Para comenzar sólo será necesario:
 
 **1.** Darle click al siguiente enlace  `archivodeprueba.c`{{open}}. El cual creara una archivo de python en el cual puede empezar a programar
 
@@ -20,7 +20,14 @@ Una vez se han completado estos pasos, podemos compilar c en la terminal. Para e
 
 Si desea salir de la consola de c escriba: 
 
-`quit()`{{copy}}
+`#include <stdio.h>
+
+int main()
+{
+    printf("Hello World");
+
+   
+}`{{copy}}
 
 **Ejecución de un archivo .c**
 
