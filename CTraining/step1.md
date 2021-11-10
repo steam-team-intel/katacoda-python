@@ -20,7 +20,7 @@ Una vez se han completado estos pasos, podemos compilar c en la terminal. Para e
 
 Si desea salir de la consola de c escriba: 
 
-`#include <stdio.h>
+```#include <stdio.h>
 
 int main()
 {
@@ -33,9 +33,6 @@ int main()
 
 Puede utilizar al archivo "archivodeprueba.c" creado anteriormente. 
 
-Pruebe copiando esto en su archivo: 
-
-`print(1)`{{copy}}
 
 Para ejecutar el archivo, escriba el siguiente comando en la terminal:
 
