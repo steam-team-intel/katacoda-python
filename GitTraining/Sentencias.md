@@ -12,6 +12,8 @@ Para poder ver el estado de Git en nuestro proyecto ejecutaremos el comando `git
 
 Es importante ver este comando pues nos dirá lo que está y no en nuestro repositorio.
 
+Para añadir estos archivos al repositorio tenemos que utilizar el comando `git add`{{execute}}.
+
 Pruebe haciendo cambios y utilizando el comando `git status`{{execute}}.
 
 
