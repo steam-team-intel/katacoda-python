@@ -18,7 +18,7 @@ Lo primero que haremos será configurar el ambiente y verificar la version Git.
 
 Para este taller no es necesario instalar Python en su máquina. Para comenzar sólo será necesario:
 
-**1.** Darle click al siguiente enlace  `pryecto/archivodeprueba.py`{{open}}. El cual creara una archivo de python en el cual puede empezar a programar
+**1.** Darle click al siguiente enlace  `/pryecto/archivodeprueba.py`{{open}}. El cual creara una archivo de python en el cual puede empezar a programar
 
 
 **Ejecución de Python**
