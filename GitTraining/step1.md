@@ -1,14 +1,24 @@
 Buenos días, 
 
-## ¡Bienvenidos al taller de Python de Iniciativas STEAM de Intel Costa Rica!
+## ¡Bienvenidos al taller de Git de Iniciativas STEAM de Intel Costa Rica!
 
 
 
-Lo primero que haremos será configurar el ambiente y ejecutar Python.
+Lo primero que haremos será configurar el ambiente y verificar la versión Git.
+
+Para este taller no es necesario instalarlo en su máquina. Para comenzar sólo será necesario:
+
+**1.** Darle click al siguiente enlace `git --version`{{execute}}y
+
+
+
+
+
+Lo primero que haremos será configurar el ambiente y verificar la version Git.
 
 Para este taller no es necesario instalar Python en su máquina. Para comenzar sólo será necesario:
 
-**1.** Darle click al siguiente enlace  `archivodeprueba.py`{{open}}. El cual creara una archivo de python en el cual puede empezar a programar
+**1.** Darle click al siguiente enlace  `pryecto/archivodeprueba.py`{{open}}. El cual creara una archivo de python en el cual puede empezar a programar
 
 
 **Ejecución de Python**
