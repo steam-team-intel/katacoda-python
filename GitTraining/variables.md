@@ -10,4 +10,6 @@ Para poder realizar la copia se necesita saber quien es la persona que lo está 
 
 `git config --global user.name "Your Name"`{{copy}}
 
+Para confirmar que se configuro bien escribiremos el comando `git config -l`{{execute}}.
+
 Una vez que se tiene configurado Git se puede realizar el commit, para esto utilizaremos el comando `git commit -m "primer commit"`{{execute}}.
