@@ -8,7 +8,7 @@ Lo primero que haremos será configurar el ambiente y verificar la versión Git.
 
 Para este taller no es necesario instalarlo en su máquina. Para comenzar sólo será necesario:
 
-**1.** Darle click al siguiente enlace `git --version`{{execute}}y
+**1.** Darle click al siguiente enlace `git --version`{{execute}}
 
 
 
