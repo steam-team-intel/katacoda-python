@@ -1,28 +1,17 @@
-Una sentencia es una instrucción que el intérprete de Python puede ejecutar.
+Este comando crea un repositorio vacío de git.
 
-## Ejecutar una sentencia:
+## Ejecutar git init.
 
-Debe copiar en su archivo de prueba:
+Para inicializar un repositorio de git solo hace falta ejecutar el comando `git init`{{execute}}
 
-```python
-print('Hola mundo!')
-```{{copy}}
+Para ver si el comando anterior funcionó ejecutaremos el comando `ls -a`{{execute}} que nos permite ver el contenido oculto de una carpeta.
 
-Como podrá ver las sentencias son, en esencia, órdenes que se dan a la consola de Python.
+Editar los archivos con lo que se desee.
 
-```python
-print(2021)
-```{{copy}}
+Para poder ver el estado de Git en nuestro proyecto ejecutaremos el comando `git status`{{execute}}.
 
-Estas sentencias incluyen un llamado al método "print()", que nos da como salida la entrada que le pasemos.
-No todas las sentencias tienen una salida. Por ejemplo, si copia en su archivo:
+Es importante ver este comando pues nos dirá lo que está y no en nuestro repositorio.
 
-```python
-x = 5
-```{{copy}}
+Pruebe haciendo cambios y utilizando el comando `git status`{{execute}}.
 
-Podrá observar como el archivo se ejecuta correctamente, pero no muestra nada en la consola. 
 
-***Recordatorio:*** Para ejecutar desde consola, ingrese el comando:
-
-`python3 archivodeprueba.py`{{execute}}
