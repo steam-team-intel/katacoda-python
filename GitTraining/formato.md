@@ -1,31 +1,11 @@
-Algunos conceptos importantes referentes al formato del código son:
+Que pasa si queremos volver a una version anterior
 
-## Comentarios
+## Recuperar 
 
-En programación, existen señaladores para indicarle al intérprete si debe ignorar una línea o porción de código.
+Vamos a editar de nuevo los archivos y nuestro objetivo será ir de nuevo a la versión del último commit que se realizó.
 
-En Python, se utiliza "#" para una sola línea, y " ''' " para bloques de código.
+Para esto se utilizara el comando `git checkout -- filename`{{copy}}.
 
-Los comentarios son útiles para hacer pruebas de porciones aisladas de código, o para incluir aclaraciones y/o documentación interna.
+Para poder estar seguros de los cambios que vamos a hacer o que ya realizamos podemos ver las diferencias entre nuestro documento actual y la última versión en Git.
 
-Ejecute el siguiente código:
-
-```python
-print('Deseo que esta línea se ejecute')
-#print('Esta línea no debe ejecutarse')
-'''frase='Este bloque no debe ejecutarse'
-print(frase)'''
-```{{copy}}
-
-## Indentación
-
-Si bien la legibilidad del código siempre es importante, en Python es particularmente vital.
-
-La indentación es el margen antes de iniciar una línea, y denota la jerarquía que debe seguir el código al ejecutarse.
-
-En Python, un código mal indentado puede potencialmente dar error, aunque la lógica sea correcta.
-
-***Recordatorio:*** Para ejecutar desde consola, ingrese el comando:
-
-`python3 archivodeprueba.py`{{execute}}
-
+Para esto se utilizara el comando `git diff filename`{{copy}}.
