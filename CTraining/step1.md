@@ -12,6 +12,7 @@ Para este taller no es necesario instalar C en su computadora. Para comenzar só
 Para 
 **Hola Mundo C**
 ```python
+#include <stdio.h>
 int main()
 {
     printf("Hello World"); 
@@ -22,7 +23,7 @@ int main()
 
 Una vez se han completado estos pasos, podemos compilar c en la terminal. Para esto sólo es necesario escribir: 
 
-`gcc archivodeprueba.c -o programa`{{copy}}
+`gcc archivodeprueba.c -o programa`{{execute}}
 
 
 **Ejecución de un archivo .c**
@@ -34,4 +35,4 @@ Para ejecutar el archivo, escriba el siguiente comando en la terminal:
 `./programa`{{execute}}
 
 ***TIP:*** En este taller ejecutaremos este archivo constantemente. Sin embargo, no será necesario que escriba el comando cada vez que lo necesite. 
-Puede presionar la flecha hacia arriba en su teclado para reutilizar comandos utilizados anteriormente.
+Puede darle click sobre los comandos.
