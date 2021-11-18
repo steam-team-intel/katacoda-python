@@ -5,24 +5,36 @@ Una sentencia es una instrucción que el intérprete de Python puede ejecutar.
 Debe copiar en su archivo de prueba:
 
 ```python
-print('Hola mundo!')
+#include <stdio.h>
+printf('Hola mundo!')
 ```{{copy}}
 
 Como podrá ver las sentencias son, en esencia, órdenes que se dan a la consola de Python.
 
 ```python
-print(2021)
+printf(2021)
 ```{{copy}}
 
-Estas sentencias incluyen un llamado al método "print()", que nos da como salida la entrada que le pasemos.
+Estas sentencias incluyen un llamado al método "printf()", que nos da como salida la entrada que le pasemos.
 No todas las sentencias tienen una salida. Por ejemplo, si copia en su archivo:
 
 ```python
-x = 5
+int x = 5
 ```{{copy}}
 
 Podrá observar como el archivo se ejecuta correctamente, pero no muestra nada en la consola. 
 
-***Recordatorio:*** Para ejecutar desde consola, ingrese el comando:
 
-`python3 archivodeprueba.py`{{execute}}
+***Recordatorio:*** Para ejecutar desde consola, es necesario compilar el archivo con los cambios realizados:
+
+Puede utilizar al archivo "archivodeprueba.c" creado anteriormente. 
+
+**Compilación de un archivo .c**
+
+`gcc archivodeprueba.c -o programa`{{execute}}
+
+**Ejecución de un archivo .c**
+
+Para ejecutar el archivo, escriba el siguiente comando en la terminal:
+
+`./programa`{{execute}}
