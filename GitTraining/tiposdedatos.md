@@ -1,39 +1,14 @@
 
+git-branch: enumera, crea o elimina ramas
 
+Con este comando se listarán las ramas existentes; la rama actual se resaltará en verde y se marcará con un asterisco.
 
-El concepto de tipo de datos es importante en programación, pues cada tipo de datos cuenta con una funcionalidad diferente.
+`git branch`{{execute}}
 
-En Python se manejan varios tipos de datos de diferentes categorías. Los tipos más básicos y utilizados son *int, float, string* y *bool*.
+Para poder crear una nueva rama se necesita ejecutar el mismo comando pero especificando un nombre
 
-Sin embargo, existen muchos más, como *complex, list, tuple, dict, set, bytes* ...
+`git branch name`{{copy}}
 
-Para comprobar el tipo de un dato basta con hacer un llamado al método type(). Pruebe ejecutando las siguientes líneas.
+Para poder cambiar de ramo utilizamos el comando checkout de la siguiente forma:
 
-
-```python
-print(type(1))
-```{{copy}}
-
-```python
-print(type(3.4))
-```{{copy}}
-
-```python
-print(type('hola'))
-```{{copy}}
-
-```python
-print(type(True))
-```{{copy}}
-
-En Python también es posible especificar un tipo de datos si se desea:
-
-```python
-frase = str("Hello World!")
-num = int(2021)
-print(type(frase),type(num))
-```{{copy}}
-
-***Recordatorio:*** Para ejecutar desde consola, ingrese el comando:
-
-`python3 archivodeprueba.py`{{execute}}
+`git checkout name`{{copy}}
