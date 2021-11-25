@@ -22,21 +22,6 @@
     },{
       "title": "Lección 6 - Repositorios online",
       "text": "operadores.md"
-    },{
-      "title": "Lección 7 - Control de flujo: Condicionales",
-      "text": "controlflujoif.md"
-    },{
-      "title": "Lección 8 - Ejercicio 1: Sobre lógica",
-      "text": "ex1.md"
-    },{
-      "title": "Lección 9 - Control de flujo: Ciclos",
-      "text": "controlflujociclos.md"
-    },{
-      "title": "Lección 10 - Estructuras de datos: Listas",
-      "text": "listas.md"
-    },{
-      "title": "Lección 11 - Ejercicio 2: Sobre funciones",
-      "text": "ex2.md"
     }],
     "intro": {
       "text": "intro.md",
