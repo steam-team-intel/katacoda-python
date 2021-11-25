@@ -1,25 +1,37 @@
-Una sentencia es una instrucción que el intérprete de Python puede ejecutar.
+Una sentencia es una instrucción que C puede ejecutar.
 
 ## Ejecutar una sentencia:
 
 Debe copiar en su archivo de prueba:
 
-```python
+```C
 #include <stdio.h>
-printf('Hola mundo!')
+int main()
+{
+    printf("Hello World"); 
+}
 ```{{copy}}
 
-Como podrá ver las sentencias son, en esencia, órdenes que se dan a la consola de Python.
+Como podrá ver las sentencias son, en esencia, órdenes que se dan al Programa.
 
-```python
-printf(2021)
+```C
+#include <stdio.h>
+int main()
+{
+    printf("Hello World"); 
+    printf(1); 
+}
 ```{{copy}}
 
 Estas sentencias incluyen un llamado al método "printf()", que nos da como salida la entrada que le pasemos.
 No todas las sentencias tienen una salida. Por ejemplo, si copia en su archivo:
 
-```python
-int x = 5
+```C
+#include <stdio.h>
+int main()
+{
+    int costo = 20000;
+}
 ```{{copy}}
 
 Podrá observar como el archivo se ejecuta correctamente, pero no muestra nada en la consola. 
