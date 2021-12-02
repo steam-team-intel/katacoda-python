@@ -4,6 +4,8 @@ Los operadores se utilizan para realizar diferentes cómputos entre variables y 
 
 Algunos ejemplos son:
 
+
+```C
 #include <stdio.h>
 
 
@@ -36,7 +38,7 @@ int main() {
 	int mesesTotales = (2021 - anhoNacimiento) * 12 + ( mesActual - mesNacimiento);
 	printf("Han pasado %d meses desde su nacimiento", mesesTotales, "desde su nacimiento");
 	
-}
+}```{{copy}}
 
 ***Recordatorio:*** Para ejecutar desde consola, es necesario compilar el archivo con los cambios realizados:
 
