@@ -14,5 +14,5 @@ Para este taller no es necesario instalarlo en su máquina. Para comenzar sólo 
 
 **3. ** En la carpeta proyecto vamos a crear 2 archivos clickeando los siguientes enlaces `/proyecto/archivodeprueba.py`{{open}}, `/proyecto/texto.txt`{{open}}
 
-**4. ** Acceder a la carpeta proyecto por medio de la terminal, esto se hace utilizando el comando  `cd proyecto`{{execute}}, y lo verificaremos los archivos que posee la carpeta con el comando `ls`{{execute}}
+**4. ** Acceder a la carpeta proyecto por medio de la terminal, esto se hace utilizando el comando  `cd proyecto`{{execute}}, Podemos verificar en qué carpeta estamos con el siguiente comando: `pwd`{{execute}}  y verificaremos los archivos que posee la carpeta con el comando `ls`{{execute}}
 
