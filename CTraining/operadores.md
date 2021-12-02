@@ -4,41 +4,51 @@ Los operadores se utilizan para realizar diferentes cómputos entre variables y 
 
 Algunos ejemplos son:
 
-**Operadores de asignación**
-```python>
-x=2
-y=3
-print("Valor original de y:",y)
-y=x
-print("Asignamos x a y:",y)
-```{{copy}}
+#include <stdio.h>
 
-**Operadores aritméticos**
-```python
-x=2
-y=3
-print(x*y)
-```{{copy}}
 
-**Operadores de comparación**
-```python
-x=2
-y=2
-sonIguales = x==y #variable de tipo booleano
-print(sonIguales)
-```{{copy}}
+/* Al principio del texto es útil poner comentarios que
+expliquen cosas del programa:*/
+// Programa: TallerCIntel.c
+// Utilidad: Imprime en pantalla un mensaje de bienvenida.
+// Programador: Hazel.
+// Fecha: La de hoy.
+// Versión: 1.0
 
-**Operadores lógicos**
-```python
-condicion1 = True
-condicion2 = False
-print(condicion1 and condicion2) 
-print(condicion1 or condicion2) 
-print(not condicion2)
-```{{copy}}
 
-Escriba una expresión utilizando un operador con los números 3 y 6 que de como resultado True.
+int main() {
+    printf("Hello, world!");
 
-***Recordatorio:*** Para ejecutar desde consola, ingrese el comando:
+	int anhoNacimiento;
+	printf("Por favor, introduce el año de su nacimiento y pulse enter: ");
+	scanf("%d", &anhoNacimiento); 
+	printf("El año de su nacimiento es: %d\n", anhoNacimiento);
 
-`python3 archivodeprueba.py`{{execute}}
+	//Pero cuantos meses ha pasado desde mi nacimiento 
+	int mesNacimiento;
+	printf("Por favor, introduzca el número del mes de su nacimiento  y pulse enter: ");
+	scanf("%d", &mesNacimiento); 
+
+	
+	int mesActual;
+	printf("Por favor, introduce el número de mes actual y pulse enter: ");
+	scanf("%d", &mesActual); 
+	int mesesTotales = (2021 - anhoNacimiento) * 12 + ( mesActual - mesNacimiento);
+	printf("Han pasado %d meses desde su nacimiento", mesesTotales, "desde su nacimiento");
+	
+}
+
+***Recordatorio:*** Para ejecutar desde consola, es necesario compilar el archivo con los cambios realizados:
+
+Puede utilizar al archivo "archivodeprueba.c" creado anteriormente. 
+
+**Compilación de un archivo .c**
+
+`gcc archivodeprueba.c -o programa`{{execute}}
+
+**Ejecución de un archivo .c**
+
+Para ejecutar el archivo, escriba el siguiente comando en la terminal:
+
+`./programa`{{execute}}![image](https://user-images.githubusercontent.com/70983699/144491673-a7a9d377-68c8-4bbf-971d-49e660e3975f.png)
+
