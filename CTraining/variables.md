@@ -2,39 +2,60 @@ Las variables son nombres que tienen asociado un tipo de valor y un valor, algo 
 
 Decimos que una variable (en general, cualquier objeto en programación) tiene un nombre significativo cuando este especifica su utilidad o contenido.
 
-En Python no es necesario declarar las variables ni especificar su tipo de datos. Las variables se crean al asignarles valor.
+En Python es necesario declarar las variables y especificar su tipo de datos. Las variables se crean al asignarles valor.
 
 **Tipo string** 
 
-```python
-frase = "Hola mundo"
-print(x)
+En C no existe un tipo predefinido para manipular cadenas de caracteres (string). Sin
+embargo, el estándar de C define algunas funciones de biblioteca para tratamiento de
+strings .
+El formato para declarar un stirng es:
+
+char nombre[longitug];
+
+```C
+char frase[10] = "Hola mundo";
+printf(frase);
 ```{{copy}}
 
 **Tipo entero** 
 
 En el siguiente ejemplo, se puede hacer referencia a x para hacer una suma, sin especificar su valor explícitamente:
 
-```python
-x = 2
-print(x + 4)
+```C
+int costoproducto = 1000;
+printf(costoproducto);
 ```{{copy}}
 
 **Tipo float** 
-```python
-pi = 3.1415
-print(pi)
+```C
+float impuesto = 0.13;
+printf("El valor del impuesto es de : %f\n", impuesto);
 ```{{copy}}
 
 **Tipo booleano** 
-```python
-Megustaaprender = True
-print(Megustaaprender)
+```c
+ bool valor = false;
+  if(valor){
+    printf("El valor es verdadero");
+  }
+  else{
+    printf("El valor es falso");
+  }
 ```{{copy}}
 
-Intente asignar su propia variable y compruebe el tipo de valor que contiene usando type()
+***Recordatorio:*** Para ejecutar desde consola, es necesario compilar el archivo con los cambios realizados:
 
-***Recordatorio:*** Para ejecutar desde consola, ingrese el comando:
+Puede utilizar al archivo "archivodeprueba.c" creado anteriormente. 
 
-`python3 archivodeprueba.py`{{execute}}
+**Compilación de un archivo .c**
+
+`gcc archivodeprueba.c -o programa`{{execute}}
+
+**Ejecución de un archivo .c**
+
+Para ejecutar el archivo, escriba el siguiente comando en la terminal:
+
+`./programa`{{execute}}![image](https://user-images.githubusercontent.com/70983699/144479174-9ad6bdcb-6727-4937-8bb7-13cefa4cb34f.png)
+
 
