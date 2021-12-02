@@ -10,7 +10,7 @@ Para este taller no es necesario instalarlo en su máquina. Para comenzar sólo 
 
 **1.** Darle click al siguiente enlace `git --version`{{execute}}
 
-**2. **  Una vez comprobada la versión de git crearemos una carpeta llamada proyecto.
+**2. **  Una vez comprobada la versión de git crearemos una carpeta llamada proyecto, La podemos crear con el siguiente comando: `mkdir proyecto`{{execute}}
 
 **3. ** En la carpeta proyecto vamos a crear 2 archivos clickeando los siguientes enlaces `/proyecto/archivodeprueba.py`{{open}}, `/proyecto/texto.txt`{{open}}
 
