@@ -2,7 +2,7 @@ Las variables son nombres que tienen asociado un tipo de valor y un valor, algo 
 
 Decimos que una variable (en general, cualquier objeto en programación) tiene un nombre significativo cuando este especifica su utilidad o contenido.
 
-En Python es necesario declarar las variables y especificar su tipo de datos. Las variables se crean al asignarles valor.
+En C es necesario declarar las variables y especificar su tipo de datos. Las variables se crean al asignarles valor.
 
 **Tipo string** 
 
