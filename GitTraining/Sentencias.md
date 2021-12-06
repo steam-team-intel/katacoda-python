@@ -6,7 +6,7 @@ Para inicializar un repositorio de git solo hace falta ejecutar el comando `git 
 
 Para ver si el comando anterior funcionó ejecutaremos el comando `ls -a`{{execute}} que nos permite ver el contenido oculto de una carpeta.
 
-Editar los archivos con lo que se desee.
+Editar los archivos(archivodeprueba.py y texto.txt) con lo que se desee.
 
 Para poder ver el estado de Git en nuestro proyecto ejecutaremos el comando `git status`{{execute}}.
 
