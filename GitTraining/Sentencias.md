@@ -10,6 +10,8 @@ Editar los archivos(archivodeprueba.py y texto.txt) con lo que se desee.
 
 Para poder ver el estado de Git en nuestro proyecto ejecutaremos el comando `git status`{{execute}}.
 
+Al ejecutar dicho comando nos dará un resultado como el siguiente:
+
 `On branch master`
 
 `Initial commit`
@@ -22,6 +24,7 @@ Para poder ver el estado de Git en nuestro proyecto ejecutaremos el comando `git
 
 `nothing added to commit but untracked files present (use "git add" to track)`
 
+Esto nos dice varias cosas, primero en cual branch(rama) estamos posicionados, segundo nos dice que estamos en un commit inicial, luego nos muestra el nombre de los archivos que git no este monitoreando de color rojo y los que si de color verde.
 
 Es importante ver este comando pues nos dirá lo que está y no en nuestro repositorio.
 
