@@ -10,17 +10,17 @@ Editar los archivos(archivodeprueba.py y texto.txt) con lo que se desee.
 
 Para poder ver el estado de Git en nuestro proyecto ejecutaremos el comando `git status`{{execute}}.
 
-`On branch master
+`On branch master`
 
-Initial commit
+`Initial commit`
 
-Untracked files:
-  (use "git add <file>..." to include in what will be committed)
+`Untracked files:`
+`  (use "git add <file>..." to include in what will be committed)`
 
-        archivodeprueba.py
-        texto.txt
+`        archivodeprueba.py`
+`       texto.txt`
 
-nothing added to commit but untracked files present (use "git add" to track)`
+`nothing added to commit but untracked files present (use "git add" to track)`
 
 
 Es importante ver este comando pues nos dirá lo que está y no en nuestro repositorio.
