@@ -14,8 +14,12 @@ El formato para declarar un stirng es:
 char nombre[longitug];
 
 ```C
-char frase[10] = "Hola mundo";
-printf(frase);
+#include <stdio.h>
+
+int main() {
+  char frase[10] = "Hola mundo";
+  printf(frase);
+ }
 ```{{copy}}
 
 **Tipo entero** 
@@ -23,18 +27,30 @@ printf(frase);
 En el siguiente ejemplo, se puede hacer referencia a x para hacer una suma, sin especificar su valor explícitamente:
 
 ```C
-int costoproducto = 1000;
-printf(costoproducto);
+#include <stdio.h>
+
+int main() {
+   int costoproducto = 1000;
+   printf(costoproducto);
+}
 ```{{copy}}
 
 **Tipo float** 
 ```C
+#include <stdio.h>
+
+int main() {
 float impuesto = 0.13;
 printf("El valor del impuesto es de : %f\n", impuesto);
+}
 ```{{copy}}
 
 **Tipo booleano** 
 ```c
+
+#include <stdio.h>
+
+int main() {
  bool valor = false;
   if(valor){
     printf("El valor es verdadero");
@@ -42,6 +58,7 @@ printf("El valor del impuesto es de : %f\n", impuesto);
   else{
     printf("El valor es falso");
   }
+}
 ```{{copy}}
 
 ***Recordatorio:*** Para ejecutar desde consola, es necesario compilar el archivo con los cambios realizados:
