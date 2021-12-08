@@ -10,7 +10,7 @@ Para esto vamos a necesitar la siguiente información:
 - El año actual 
 - El mes actual 
 
-***Primer paso:***  Definir las variables:
+**Primer paso:***  Definir las variables:
 
 ```C
 int anhoNacimiento;
@@ -29,7 +29,7 @@ printf("Por favor, introduce el año de su nacimiento y pulse enter: "); ```{{co
 Una vez que el usuario ya puede saber que le estan solictan información, usamos la función de C.
   
 
-**Scanf***: Analiza una entrada de datos con formato y carga el resultado a la varible que se defina, y funciona de la siguiente manera:
+**Scanf**: Analiza una entrada de datos con formato y carga el resultado a la varible que se defina, y funciona de la siguiente manera:
 
  ```C
 scanf("%d", &anhoNacimiento); ```{{copy}}
@@ -39,7 +39,7 @@ Una vez tengamos toda la información que necesitamos, hay que proceder a hacer 
 
 Su edad actual * 12 + (El mes actual - el mes de su nacimiento).
 
-En C sería algo así:
+***En C sería algo así:
 
 
  ```C
@@ -48,7 +48,7 @@ printf("Han pasado %d meses desde su nacimiento", mesesTotales, "desde su nacimi
 	
 
 
-##Recordatorio
+## Recordatorio
 
 Para ejecutar desde consola, es necesario compilar el archivo con los cambios realizados:
 
