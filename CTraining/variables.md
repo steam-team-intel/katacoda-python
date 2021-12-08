@@ -73,6 +73,6 @@ Puede utilizar al archivo "archivodeprueba.c" creado anteriormente.
 
 Para ejecutar el archivo, escriba el siguiente comando en la terminal:
 
-`./programa`{{execute}}![image](https://user-images.githubusercontent.com/70983699/144479174-9ad6bdcb-6727-4937-8bb7-13cefa4cb34f.png)
+`./programa`{{execute}}
 
 
