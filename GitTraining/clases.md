@@ -1,31 +1,8 @@
-Python se basa en clases para representar objetos. Estos objetos tienen asociados atributos y métodos, y unos objetos interactúan con otros.
+Que pasa cuando el trabajo que hicimos es nuestra branch(rama) ya está completo.
 
-La manera en la que se declara una clase es la siguiente: 
+##git merge
 
-`class Persona:
-    def __init__(self, nombre, edad):
-        self.nombre = nombre
-        self.edad = edad
-    def presentacion(self):
-        print("Hola! Mi nombre es " + self.nombre)
-        `{{copy}}
+Git merge es un comando que nos permite combinar 2 branches(ramas) para usarlo nos vamos a pasar a la branch master con el siguiente comando: `git checkout master`{{execute}}.
 
-El método __init__ funciona como método constructor de nuestra clase Persona. Define los atributos con los que se creará un objeto de tipo Persona.
+Y para realizar la unión entre ramas vamos a usar el comando: `git merge branchName`{{copy}}.
 
-También se puede observar que los métodos de Python siempre incluyen una referencia a sí mismos, por convención.
-
-Una clase se puede ver como una definición abstracta de un objeto. Una **instancia**, por otro lado, es una concreción de dicho objeto. 
-
-Para crear instancias de la clase Persona:
-
-`persona1 = Persona('Miguel', 19)
-persona2 = Persona('Paula', 23)`{{copy}}
-
-Una vez se ha instanciado una clase, se puede llamar a los métodos de la misma. Los métodos son funciones asociadas a una clase.
-
-`persona1.presentacion()
-persona2.presentacion()`{{copy}}
-
-***Recordatorio:*** Para ejecutar desde consola, ingrese el comando:
-
-`python3 archivodeprueba.py`{{copy}}
