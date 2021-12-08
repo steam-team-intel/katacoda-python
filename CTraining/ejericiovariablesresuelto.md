@@ -38,7 +38,7 @@ int main() {
 }```{{copy}}
 
 
-##Recordatorio
+## Recordatorio
 
 Para ejecutar desde consola, es necesario compilar el archivo con los cambios realizados:
 
@@ -52,4 +52,4 @@ Puede utilizar al archivo "archivodeprueba.c" creado anteriormente.
 
 Para ejecutar el archivo, escriba el siguiente comando en la terminal:
 
-`./programa`{{execute}}![image](https://user-images.githubusercontent.com/70983699/145272131-d886a1b7-d2fb-444b-b8e2-92e601d0001a.png)
+`./programa`{{execute}}!
