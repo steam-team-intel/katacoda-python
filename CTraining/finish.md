@@ -1,8 +1,7 @@
 ¡Felicidades, finalizaste el training!
 
-Ya conoces los básicos de Python, ahora sigue programando en Leetcode. 
+Ya conoces los básicos de C, ahora sigue programando en Tutorialspoint. 
 
-Link a leetcode ->>>> [Leetcode](https://leetcode.com/problemset/all/)
-
+Link a Tutorialspoint ->>>> [Tutorialspoint](https://www.tutorialspoint.com/cprogramming/index.htm)
 
 ¡Gracias por tomar este training!
