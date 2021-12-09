@@ -1,43 +1,6 @@
-Las listas almacenan datos de cualquier tipo, son ordenadas y se pueden modificar.
+Una vez que ya estamos conectados a un repositorio online podemos seguir trabajando en nuestro proyecto local y simplemente subir y bajar los cambios que se han hecho en nuestro proyecto para esto se usan los comando push y pull.
 
-Se puede crear una lista vacía mediante la siguiente sentencia:
+Para subir un cambio a nuestro proyecto usamos el comando: `git push`{{execute}}
 
-`mi_lista = []
-print(mi_lista)`{{copy}}
 
-Esta sentencia crea una lista de enteros:
-
-`mi_lista = [1, 2, 3, 4]
-print(mi_lista)`{{copy}}
-
-Y esta sentencia crea una lista de datos mixtos:
-
-`mi_lista = ['hello', 9.6, 24, 'goodbye']
-print(mi_lista)`{{copy}}
-
-Al ser ordenadas, podemos obtener y modificar elementos por posición, por medio de lo que llamamos su índice:
-
-`mi_lista = ['hello', 9.6, 24, 'goodbye']
-print(mi_lista[0])
-mi_lista[0] = 'hola'
-print(mi_lista)`{{copy}}
-
-Existen varios métodos para gestionar listas. Por ejemplo, con len() se obtiene el tamaño de una lista:
-
-`len(mi_lista)`{{copy}}
-
-Si se quiere añadir un elemento mas a una lista se puede utilizar append():
-
-`mi_lista.append('adios')
-print(mi_lista)`{{copy}}
-
-Y el método insert() inserta un elemento en dada posición de la lista:
-
-`mi_lista.insert(0,'hola')
-print(mi_lista)`{{copy}}
-
-Mientras que append() inserta un elemento al final. Pruebe insertar un elemento de cualquier tipo al final de mi_lista.
-
-***Recordatorio:*** Para ejecutar desde consola, ingrese el comando:
-
-`python3 archivodeprueba.py`{{execute}}
+Y para poder descargar los cambios que se han realizado en el proyecto se usa el comando: `git pull`{{execute}}
