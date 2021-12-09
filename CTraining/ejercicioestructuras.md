@@ -4,7 +4,19 @@ Escriba un programa, con una estructura de estudiante:
  - Crear una función para visualizar los datos de los estudiantes
 
 
-***Recordatorio*** 
+
+
+
+
+
+
+
+
+
+
+## Recordatorio
+
+
 En la lección anterior, aprendimos a definir una estructura, inicializar una estructura, además de como imprimir esa información.
 
 **Include Necesario**
