@@ -35,9 +35,6 @@ Seguidamente, para darle valor a esos atributos usamos la funcion ***strcpy(s1,s
 Para esto, usamos el siguiente ejemplo: 
 
 ```C
-/* Declaramos la funcion */
-void imprimirInfoLibro( struct Libros libro );
-
 int main( ) {
    /* Declaramos libro1 como tipo Libro */
    struct Libros libro1;  
