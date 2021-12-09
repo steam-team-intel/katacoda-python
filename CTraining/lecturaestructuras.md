@@ -1,3 +1,5 @@
+Visualización de la información de una estructura instanciada
+
 ## ¿Comó imprimo  la información de los libros?
 
 Para imprimir la información de los libros será necesario realizar dos pasos, el primero sería crear una función que me permita imprimir la información y el segundo paso es llamar esa función desde el main.
