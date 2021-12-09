@@ -1,8 +1,8 @@
 ¡Felicidades, finalizaste el training!
 
-Ya conoces los básicos de Python, ahora sigue programando en Leetcode. 
+Ya conoces los básicos de Git, ahora sigue aprendiendo en de Git. 
 
-Link a leetcode ->>>> [Leetcode](https://leetcode.com/problemset/all/)
+Link a la página de Git ->>>> [Git](https://git-scm.com/)
 
 
 ¡Gracias por tomar este training!
