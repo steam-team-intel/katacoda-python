@@ -11,7 +11,11 @@ Para este taller no es necesario instalar C en su computadora. Para comenzar só
 
 Para 
 **Hola Mundo C**
-```python
+
+Para ejecutar cualquier programa de c, será necesario incluir la librería de stdio. h, la cual  es un archivo de encabezado que tiene la información necesaria para incluir las funciones relacionadas de entrada / salida en nuestro programa. Ejemplo printf, scanf, etc. Si queremos usar la función printf o scanf en nuestro programa, debemos incluir el stdio. h archivo de encabezado en nuestro código fuente. 
+
+
+```c
 #include <stdio.h>
 int main()
 {
