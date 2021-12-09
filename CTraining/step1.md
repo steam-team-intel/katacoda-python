@@ -19,6 +19,9 @@ int main()
 }
 ```{{copy}}
 
+
+## Recordatorio
+
 **Compilación de C**
 
 Una vez se han completado estos pasos, podemos compilar c en la terminal. Para esto sólo es necesario escribir: 
