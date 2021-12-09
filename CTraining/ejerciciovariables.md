@@ -10,7 +10,7 @@ Para esto vamos a necesitar la siguiente información:
 - El año actual 
 - El mes actual 
 
-**Primer paso:***  Definir las variables:
+**Primer paso:**  Definir las variables:
 
 ```C
 int anhoNacimiento;
@@ -19,7 +19,7 @@ int mesActual;
 int anhoActual;
 ```{{copy}}
 
-***Segundo Paso:*** Solicitar esa información
+**Segundo Paso:** Solicitar esa información
 
 Para solicitar información, C tiene una función especial para eso, Se imprime un texto para que el usuario entienda que nuestro programa le va a solicitar alguna información, por ejemplos:
 
