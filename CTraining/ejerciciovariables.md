@@ -1,7 +1,7 @@
 
 Ahora bien, usemos las variables en un contexto de la vida real.
 
-En este caso, planteemos el problema de ***Quiero saber cuántos meses han pasado desde el mes de mi nacimiento**
+En este caso, planteemos el problema de **Quiero saber cuántos meses han pasado desde el mes de mi nacimiento**
 
 Para esto vamos a necesitar la siguiente información:
 
