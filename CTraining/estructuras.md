@@ -10,8 +10,10 @@ tipo de datos.
 
 ## Definición de la estructura
 
+Para interactuar con la estructura es necesario usar la librería de String.h, string.h es un archivo de la Biblioteca estándar del lenguaje de programación C que contiene la definición de macros, constantes, funciones y tipos y algunas operaciones de manipulación de memoria.
+
+
 ```C
-#include <stdio.h>
 #include <stdio.h>
 #include <string.h>
  struct Libros  {
@@ -68,7 +70,7 @@ Para todos los posibles escenarios de programación en C, es necesario agregar e
 int main()
 {
     // Aqui iría el código
-}```{{copy}}![image](https://user-images.githubusercontent.com/70983699/145438259-40e99ce0-f552-4d1c-a696-9a8a07ac3c4b.png)
+}```{{copy}}
 
 
 Para ejecutar desde consola, es necesario compilar el archivo con los cambios realizados:
