@@ -39,7 +39,7 @@ Podrá observar como el archivo se ejecuta correctamente, pero no muestra nada e
 
 ## Recordatorio:
 
-**Include Necesario*
+**Include Necesario**
 Para todos los posibles escenarios de programación en C, es necesario agregar el include y para que ejecutar el código es necesario 1.
 
 ```C
