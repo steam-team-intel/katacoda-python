@@ -8,7 +8,7 @@ Una posible solución para el problema anterior podría ser el siguiente:
 /* Al principio del texto es útil poner comentarios que
 expliquen cosas del programa:*/
 // Programa: TallerCIntel.c
-// Utilidad: Imprime en pantalla un mensaje de bienvenida.
+// Utilidad: Interactua con el usuario para preguntarle información necesaria para imprimir en pantalla cuantos meses tiene el usuario
 // Programador: Hazel.
 // Fecha: La de hoy.
 // Versión: 1.0
