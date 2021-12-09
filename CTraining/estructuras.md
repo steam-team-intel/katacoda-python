@@ -58,9 +58,20 @@ int main( ) {
    return 0;
 } ```{{copy}}
 
-## Ejecución del archivo
+## Recordatorio
 
-***Recordatorio:*** Para ejecutar desde consola, es necesario compilar el archivo con los cambios realizados:
+**Include Necesario**
+Para todos los posibles escenarios de programación en C, es necesario agregar el include y para que ejecutar el código es necesario 1.
+
+```C
+#include <stdio.h>
+int main()
+{
+    // Aqui iría el código
+}```{{copy}}![image](https://user-images.githubusercontent.com/70983699/145438259-40e99ce0-f552-4d1c-a696-9a8a07ac3c4b.png)
+
+
+Para ejecutar desde consola, es necesario compilar el archivo con los cambios realizados:
 
 Puede utilizar al archivo "archivodeprueba.c" creado anteriormente. 
 
