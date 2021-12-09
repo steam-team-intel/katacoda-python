@@ -37,7 +37,19 @@ int main()
 Podrá observar como el archivo se ejecuta correctamente, pero no muestra nada en la consola. 
 
 
-***Recordatorio:*** Para ejecutar desde consola, es necesario compilar el archivo con los cambios realizados:
+## Recordatorio:
+
+**Include Necesario*
+Para todos los posibles escenarios de programación en C, es necesario agregar el include y para que ejecutar el código es necesario 1.
+
+```C
+#include <stdio.h>
+int main()
+{
+    // Aqui iría el código
+}```{{copy}}
+
+Para ejecutar desde consola, es necesario compilar el archivo con los cambios realizados:
 
 Puede utilizar al archivo "archivodeprueba.c" creado anteriormente. 
 
