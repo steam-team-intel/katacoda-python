@@ -7,7 +7,7 @@ Escriba un programa, con una estructura de estudiante:
 ***Recordatorio*** 
 En la lección anterior, aprendimos a definir una estructura, inicializar una estructura, además de como imprimir esa información.
 
-**Include Necesario*
+**Include Necesario**
 Para todos los posibles escenarios de programación en C, es necesario agregar el include y para que ejecutar el código es necesario 1.
 
 ```C
