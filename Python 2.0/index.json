@@ -1,0 +1,29 @@
+{
+  "title": "Programación en Python",
+  "description": "Talleres de Iniciativas STEAM: Python",
+  "difficulty": "Intermedio",
+  "time": "3:00 h",
+  "details": {
+    "steps": [{
+      "title": "Lección 1 - Ejecutar Python",
+      "text": "step1.md"
+    },{
+      "title": "Lección 2 - Constructor",
+      "text": "construccion.md"
+    }],
+    "intro": {
+      "text": "intro.md",
+      "credits": ""
+    },
+    "finish": {
+      "text": "finish.md"
+    }
+  },
+  "environment": {
+    "hideintro": true,
+    "uilayout": "editor-terminal"
+  },
+  "backend": {
+    "imageid": "ubuntu"
+  }
+}
