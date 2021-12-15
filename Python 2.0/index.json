@@ -8,8 +8,20 @@
       "title": "Lección 1 - Ejecutar Python",
       "text": "step1.md"
     },{
-      "title": "Lección 2 - Constructor",
+      "title": "Lección 2 - Clases",
+      "text": "clases.md"
+    },{
+      "title": "Lección 3 - Constructor",
       "text": "constructor.md"
+    },{
+      "title": "Lección 4 - Instancias",
+      "text": "instancias.md"
+    },{
+      "title": "Lección 5 - Herencia",
+      "text": "herencia.md"
+    },{
+      "title": "Ejercicio - Herencia",
+      "text": "ejercicioejercicio.md"
     }],
     "intro": {
       "text": "intro.md",
