@@ -1,11 +1,11 @@
 Instancia significa crear un objeto a partir de una clase.
 
+Para instanciar un nuevo objeto en Pythom
 
 ```Python    
 supergalleta = Galleta('Super galleta', 'Estrella')
-
 supergalleta.norma
-# 'Awesome cookie'
+# 'Super Galleta'
 supergalleta.forma
 # 'Estrella'
 supergalleta.chips
