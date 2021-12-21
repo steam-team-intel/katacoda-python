@@ -22,7 +22,10 @@
     },{
       "title": "Ejercicio - Herencia",
       "text": "ejercicioherencia.md"
-    }],
+    },{
+      "title": "Solución Ejercicio Herencia",
+      "text": "solucionejercicioherencia.md"
+    }], 
     "intro": {
       "text": "intro.md",
       "credits": ""
