@@ -23,6 +23,25 @@ La función init (self) construye su objeto. No son solo las variables que puede
 
 Digamos que tienes un avión de clase, que una vez creado debería empezar a volar. Hay muchos pasos involucrados en el despegue: acelerar, cambiar de flaps, cerrar las ruedas, etc.
 
+```Python  
+class Avion:
+    def __init__(self):
+        self.alas = 2
+
+        # fly
+        self.conducir()
+        self.despegar()
+        self.cerrarruedas()
+
+    def conducir(self):
+            print('Acelerando')
+
+    def despegar(self):
+            print('Iniciando el vuelo.... Despegando')
+
+    def cerrarruedas(self):
+            print('Cerrando las ruedas del avion')```{{copy}}
+ 
 Las acciones predeterminadas se pueden definir en métodos. Estos métodos se pueden llamar en el constructor.
 
 
