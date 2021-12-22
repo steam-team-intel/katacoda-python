@@ -1,4 +1,4 @@
-**Resuelto 
+**Resuelto**
 
 Una posible solución para el ejercicio anterior es:
 
