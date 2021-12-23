@@ -4,7 +4,7 @@ mkdir Documentos
 mkdir Descargas
 mkdir Usuario
 mkdir Proyecto
-mkdir Comidas
+mkdir Recetas
 cd Documentos
 mkdir Tarea
 mkdir Clases
