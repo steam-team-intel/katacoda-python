@@ -1,3 +1,6 @@
 #!/bin/bash
 
-mkdir documentos
+mkdir Documentos
+mkdir Descargas
+mkdir Usuario
+mkdir Proyecto
