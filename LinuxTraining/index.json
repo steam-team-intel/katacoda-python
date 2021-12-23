@@ -6,7 +6,7 @@
   "details": {
     "steps": [{
       "title": "Lección 1 - Ejecutar Git",
-      "text": "step1.md"
+      "text": "step1.md",
       "foreground": "prepare.sh"
     }],
     "intro": {
