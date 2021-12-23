@@ -24,6 +24,6 @@
     "imageid": "ubuntu"
   },
   "files":[
-    "holis.txt"
+    "carpeta/holis.txt","proyecto/"
   ]
 }
