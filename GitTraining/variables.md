@@ -1,6 +1,6 @@
 Crea una nueva confirmación que contiene el contenido actual del índice y con el mensaje de confirmación que describe el cambio.
 
-## ejecutar Commit
+## Ejecutar Commit
 
 Ahora procedemos a tomar una foto o copia del estado actual de nuestro proyecto para esto se utilizara el comando `git commit`{{execute}}.
 
