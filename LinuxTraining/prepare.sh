@@ -21,4 +21,6 @@ cd Dulces
 touch Pastel.txt
 touch Helado.txt
 touch Galletas.txt
+cd ..
+cd ..
 clear
