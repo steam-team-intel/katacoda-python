@@ -1,0 +1,50 @@
+{
+  "title": "Git",
+  "description": "Talleres de Iniciativas STEAM: Git",
+  "difficulty": "Principiante",
+  "time": "3:00 h",
+  "details": {
+    "steps": [{
+      "title": "Lección 1 - Ejecutar Git",
+      "text": "step1.md"
+    },{
+      "title": "Lección 2 - Iniciar Git",
+      "text": "Sentencias.md"
+    },{
+      "title": "Lección 3 - Commit",
+      "text": "variables.md"
+    },{
+      "title": "Lección 4 - Recuperar",
+      "text": "formato.md"
+    },{
+      "title": "Lección 5 - Branch",
+      "text": "tiposdedatos.md"
+    },{
+      "title": "Lección 6 - Merge",
+      "text": "clases.md"
+    },{
+      "title": "Lección 7 - Repositorios online",
+      "text": "operadores.md"
+    },{
+      "title": "Lección 8 - Push y Pull",
+      "text": "listas.md"
+    }],
+    "intro": {
+      "text": "intro.md",
+      "credits": ""
+    },
+    "finish": {
+      "text": "finish.md"
+    }
+  },
+  "environment": {
+    "hideintro": true,
+    "uilayout": "editor-terminal"
+  },
+  "backend": {
+    "imageid": "ubuntu"
+  },
+  "files":[
+    "holis.txt"
+  ]
+}
