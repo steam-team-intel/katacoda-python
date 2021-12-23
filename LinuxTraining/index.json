@@ -23,6 +23,9 @@
   "backend": {
     "imageid": "ubuntu"
   },
+  "background":{
+    "mkdir hola"
+  },
   "files":[
     "carpeta/doc.txt","proyecto/"
   ]
