@@ -11,6 +11,9 @@
     },{
       "title": "Lección 2 - Movimiento",
       "text": "movimiento.md"
+    },{
+      "title": "Lección 3 - Crear/Borrar",
+      "text": "create.md"
     }],
     "intro": {
       "text": "step1.md",
