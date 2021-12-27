@@ -5,9 +5,12 @@
   "time": "3:00 h",
   "details": {
     "steps": [{
-      "title": "Lección 1 - Ejecutar Git",
+      "title": "Lección 1 - Linux",
       "text": "step1.md",
       "foreground": "prepare.sh"
+    },{
+      "title": "Lección 2 - Movimiento",
+      "text": "movimineto.md"
     }],
     "intro": {
       "text": "step1.md",
