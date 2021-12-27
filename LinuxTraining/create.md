@@ -6,3 +6,4 @@ Una vez ejecutado este comando tendríamos un nuevo directorio al cual podríamo
 
 Ahora vamos a crear un archivo, para esto vamos a crear de nuevo un directorio con el comando anteriormente visto y vamos a acceder a él con el comando cd  una vez dentro de dicho directorio vamos a hacer uso  del comando touch  el cual nos sirve para poder crear archivos de cualquier tipo como por ejemplo: `touch archivodeprueba.py`{{execute}} o `touch texto.txt`{{execute}}
 
+Una vez más pensemos que nos equivocamos a la hora de crear dichos archivos y deseamos eliminar los para esto vamos a hacer uso del siguiente comando: `rm archivodeprueba.py`{{execute}}
