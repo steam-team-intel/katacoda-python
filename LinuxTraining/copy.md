@@ -6,3 +6,8 @@ Para poder renombrar un archivo que tengamos creado vamos a utilizar el comando 
 
 Este comando también nos sirve para mover archivos de un directorio a otro `mv Sopa.txt /root/Recetas/Saladas/`{{execute}}
 
+Es importante destacar que este comando también sirve para mover directorios aún si tienen contenido dentro. 
+
+Ahora para copiar un archivo vamos a utilizar el comando cp de la siguiente forma: `cp Helado.txt Arroz.txt`{{execute}}
+
+Además el comando cp tiene la funcionalidad de copiar un archivo a otro directorio de la siguiente forma: `cp Helado.txt  /root/Recetas/Saladas/`{{execute}}
