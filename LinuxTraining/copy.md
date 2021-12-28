@@ -10,4 +10,4 @@ Es importante destacar que este comando también sirve para mover directorios a�
 
 Ahora para copiar un archivo vamos a utilizar el comando cp de la siguiente forma: `cp Helado.txt Arroz.txt`{{execute}}
 
-Además el comando cp tiene la funcionalidad de copiar un archivo a otro directorio de la siguiente forma: `cp Helado.txt  /root/Recetas/Saladas/`{{execute}}
+Además el comando cp tiene la funcionalidad de copiar un archivo a otro directorio de la siguiente forma: `cp Arroz.txt  /root/Recetas/Saladas/`{{execute}}
