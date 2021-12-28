@@ -14,6 +14,9 @@
     },{
       "title": "Lección 3 - Crear/Borrar",
       "text": "create.md"
+    },{
+      "title": "Lección 4 - Mover/Copiar",
+      "text": "copy.md"
     }],
     "intro": {
       "text": "step1.md",
