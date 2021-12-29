@@ -1,6 +1,6 @@
 Escriba un programa, con una estructura de estudiante:
- - Definir un struct llamado persona que almacene datos sobre un estudiante (Use variables como Int,  string , carácter individual)
- - Para los datos de estudiante, se solicita los siguientes atributos: Nombre, carrera, Sede, Identificación.
+ - Definir un struct llamado persona que almacene datos sobre un estudiante (Use variables como int,  char).
+ - Para los datos de estudiante, se solicita los siguientes atributos: Nombre, Carrera, Sede, Identificación.
  - Crear una función para visualizar los datos de los estudiantes
 
 
@@ -14,21 +14,19 @@ Escriba un programa, con una estructura de estudiante:
 
 
 
-## Recordatorio
 
+## Recordatorio:
 
-En la lección anterior, aprendimos a definir una estructura, inicializar una estructura, además de como imprimir esa información.
+**Include**
 
-**Include Necesario**
-Para todos los posibles escenarios de programación en C, es necesario agregar el include y para que ejecutar el código es necesario 1.
+Para todos los posibles escenarios de programación en C, es necesario agregar el include y para que ejecutar el código es necesario utilizar el main como se muestra a continuación: 
 
 ```C
 #include <stdio.h>
 int main()
 {
-    // Aqui iría el código
+    // Aquí iría el código
 }```{{copy}}
-
 
 Para ejecutar desde consola, es necesario compilar el archivo con los cambios realizados:
 
