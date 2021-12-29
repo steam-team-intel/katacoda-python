@@ -57,18 +57,19 @@ int main( ) {
    return 0;
 } ```{{copy}}
 
-## Recordatorio
 
-**Include Necesario**
-Para todos los posibles escenarios de programación en C, es necesario agregar el include y para que ejecutar el código es necesario 1.
+## Recordatorio:
+
+**Include**
+
+Para todos los posibles escenarios de programación en C, es necesario agregar el include y para que ejecutar el código es necesario utilizar el main como se muestra a continuación: 
 
 ```C
 #include <stdio.h>
 int main()
 {
-    // Aqui iría el código
+    // Aquí iría el código
 }```{{copy}}
-
 
 Para ejecutar desde consola, es necesario compilar el archivo con los cambios realizados:
 
@@ -83,3 +84,4 @@ Puede utilizar al archivo "archivodeprueba.c" creado anteriormente.
 Para ejecutar el archivo, escriba el siguiente comando en la terminal:
 
 `./programa`{{execute}}
+
