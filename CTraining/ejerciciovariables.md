@@ -24,12 +24,9 @@ int anhoActual;
 Para solicitar información, C tiene una función especial para eso, Se imprime un texto para que el usuario entienda que nuestro programa le va a solicitar alguna información, por ejemplos:
 
 ```C
-printf("Por favor, introduce el año de su nacimiento y pulse enter: "); ```{{copy}}
+printf("Por favor, Introduzca el año de su nacimiento y pulse enter: "); ```{{copy}}
 
-Una vez que el usuario ya puede saber que le estan solictan información, usamos la función de C.
-  
-
-**Scanf**: Analiza una entrada de datos con formato y carga el resultado a la varible que se defina, y funciona de la siguiente manera:
+Una vez que el usuario ya sabe que se le solicita información, usamos la función de C. **Scanf**, la cual analiza una entrada de datos con formato y carga el resultado a la varible que se defina, y funciona de la siguiente manera:
 
  ```C
 scanf("%d", &anhoNacimiento); ```{{copy}}
@@ -48,16 +45,18 @@ printf("Han pasado %d meses desde su nacimiento", mesesTotales, "desde su nacimi
 	
 
 
-## Recordatorio
 
-**Include Necesario**
-Para todos los posibles escenarios de programación en C, es necesario agregar el include y para que ejecutar el código es necesario 1.
+## Recordatorio:
+
+**Include**
+
+Para todos los posibles escenarios de programación en C, es necesario agregar el include y para que ejecutar el código es necesario utilizar el main como se muestra a continuación: 
 
 ```C
 #include <stdio.h>
 int main()
 {
-    // Aqui iría el código
+    // Aquí iría el código
 }```{{copy}}
 
 Para ejecutar desde consola, es necesario compilar el archivo con los cambios realizados:
@@ -73,4 +72,5 @@ Puede utilizar al archivo "archivodeprueba.c" creado anteriormente.
 Para ejecutar el archivo, escriba el siguiente comando en la terminal:
 
 `./programa`{{execute}}
+
 
