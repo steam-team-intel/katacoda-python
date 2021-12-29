@@ -1,6 +1,6 @@
 Las variables son nombres que tienen asociado un tipo de valor y un valor, algo así como una referencia.
 
-Decimos que una variable (en general, cualquier objeto en programación) tiene un nombre significativo cuando este especifica su utilidad o contenido.
+Decimos que una variable (en general, cualquier objeto en programación) tiene un nombre significativo cuando éste especifica su utilidad o contenido.
 
 En C es necesario declarar las variables y especificar su tipo de datos. Las variables se crean al asignarles valor.
 
@@ -9,9 +9,9 @@ En C es necesario declarar las variables y especificar su tipo de datos. Las var
 En C no existe un tipo predefinido para manipular cadenas de caracteres (string). Sin
 embargo, el estándar de C define algunas funciones de biblioteca para tratamiento de
 strings .
-El formato para declarar un stirng es:
+El formato para declarar un string es:
 
-char nombre[longitug];
+char nombre[longitud];
 
 ```C
 #include <stdio.h>
@@ -24,7 +24,7 @@ int main() {
 
 **Tipo entero** 
 
-En el siguiente ejemplo, se puede hacer referencia a x para hacer una suma, sin especificar su valor explícitamente:
+En el siguiente ejemplo, se puede hacer referencia a costoproducto:
 
 ```C
 #include <stdio.h>
@@ -61,19 +61,19 @@ int main() {
 }
 ```{{copy}}
 
+
 ## Recordatorio:
 
-**Include Necesario**
-Para todos los posibles escenarios de programación en C, es necesario agregar el include y para que ejecutar el código es necesario 1.
+**Include**
+
+Para todos los posibles escenarios de programación en C, es necesario agregar el include y para que ejecutar el código es necesario utilizar el main como se muestra a continuación: 
 
 ```C
 #include <stdio.h>
 int main()
 {
-    // Aqui iría el código
+    // Aquí iría el código
 }```{{copy}}
-} 
-
 
 Para ejecutar desde consola, es necesario compilar el archivo con los cambios realizados:
 
@@ -88,5 +88,3 @@ Puede utilizar al archivo "archivodeprueba.c" creado anteriormente.
 Para ejecutar el archivo, escriba el siguiente comando en la terminal:
 
 `./programa`{{execute}}
-
-
