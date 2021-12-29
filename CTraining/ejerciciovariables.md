@@ -26,13 +26,13 @@ Para solicitar información, C tiene una función especial para eso, Se imprime 
 ```C
 printf("Por favor, Introduzca el año de su nacimiento y pulse enter: "); ```{{copy}}
 
-Una vez que el usuario ya sabe que se le solicita información, usamos la función de C. **Scanf**, la cual analiza una entrada de datos con formato y carga el resultado a la varible que se defina, y funciona de la siguiente manera:
+Una vez que el usuario ya sabe que se le solicita información, usamos la función de C. **Scanf**, la cual analiza una entrada de datos con formato y carga el resultado a la variable que se defina, y funciona de la siguiente manera:
 
  ```C
 scanf("%d", &anhoNacimiento); ```{{copy}}
 
 
-Una vez tengamos toda la información que necesitamos, hay que proceder a hacer el calculo, el cual sería:
+Una vez tengamos toda la información que necesitamos, hay que proceder a hacer el cálculo, el cual sería:
 
 Su edad actual * 12 + (El mes actual - el mes de su nacimiento).
 
