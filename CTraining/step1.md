@@ -7,12 +7,12 @@ Lo primero que haremos será configurar el ambiente, compilar y ejecutar C.
 
 Para este taller no es necesario instalar C en su computadora. Para comenzar sólo será necesario:
 
-**1.** Darle click al siguiente enlace  `archivodeprueba.c`{{open}}. El cual creara una archivo de c en el cual puede empezar a programar.
+**1.** Darle click al siguiente enlace  `archivodeprueba.c`{{open}}. El cual creára una archivo de C en el cual puede empezar a programar.
 
-Para 
-**Hola Mundo C**
 
-Para ejecutar cualquier programa de c, será necesario incluir la librería de stdio. h, la cual  es un archivo de encabezado que tiene la información necesaria para incluir las funciones relacionadas de entrada / salida en nuestro programa. Ejemplo printf, scanf, etc. Si queremos usar la función printf o scanf en nuestro programa, debemos incluir el stdio. h archivo de encabezado en nuestro código fuente. 
+**1.** Codificar un "Hola Mundo" en C.
+
+Para ejecutar cualquier programa de C, será necesario incluir la librería de stdio.h, la cual  es un archivo de encabezado que tiene la información necesaria para incluir las funciones de entrada / salida en nuestro programa. Ejemplo printf, scanf, etc. Si queremos usar la función printf o scanf en nuestro programa, debemos incluir el stdio.h archivo de encabezado en nuestro código fuente. 
 
 
 ```c
@@ -28,7 +28,7 @@ int main()
 
 **Compilación de C**
 
-Una vez se han completado estos pasos, podemos compilar c en la terminal. Para esto sólo es necesario escribir: 
+Una vez se han completado estos pasos, podemos compilar C en la terminal. Para esto sólo es necesario escribir: 
 
 `gcc archivodeprueba.c -o programa`{{execute}}
 
