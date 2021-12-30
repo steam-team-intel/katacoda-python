@@ -17,6 +17,9 @@
     },{
       "title": "Lección 4 - Mover/Copiar",
       "text": "copy.md"
+    },{
+      "title": "Lección 4 - Man/Grep",
+      "text": "man.md"
     }],
     "intro": {
       "text": "step1.md",
