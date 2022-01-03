@@ -17,4 +17,4 @@ La siguiente opción que vamos a ver es la opción n la cual nos permite identif
 
 También podemos hacer una búsqueda  con el comando grep el cual nos devuelve las líneas  que no contienen el patrón dado, para esto se usa la opción v: `grep -nv and littlePrince.txt`{{execute}} 
 
-Si queremos limitar la cantidad de líneas que nos muestra en consola se utiliza la opción m `grep -nm 3 and littlePrince.txt`{{execute}} y si queremos contar la cantidad de veces que el patrón se encuentra Entonces tendremos que usar la opción C `grep -c and littlePrince.txt`{{execute}}
+Si queremos limitar la cantidad de líneas que nos muestra en consola se utiliza la opción m `grep -nm 3 and littlePrince.txt`{{execute}} y si queremos contar la cantidad de veces que el patrón se encuentra Entonces tendremos que usar la opción c `grep -c and littlePrince.txt`{{execute}}
