@@ -8,3 +8,5 @@ Lo primero que vamos a hacer es crear el archivo con el juego vamos a trabajar u
 Para poder ver en terminal lo que tiene un archivo sin necesidad de abrir un editor de texto se puede utilizar el comando cat de la siguiente manera `cat littlePrince.txt`{{execute}}
 
 Una vez tenemos el archivo con el contenido deseado vamos a hacer un pequeño ejemplo del uso de comando grep. `grep and littlePrince.txt`{{execute}}
+
+Ahora vamos a hacer uso de las opciones, si utilizamos la opción  -w  va a buscar por palabra en vez de por caracteres como lo hace  por defecto `grep -w and littlePrince.txt`{{execute}}
