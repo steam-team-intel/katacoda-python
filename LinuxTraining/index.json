@@ -23,6 +23,9 @@
     },{
       "title": "Lección 6 - Grep",
       "text": "grep.md"
+    },{
+      "title": "Lección 7 - Grep",
+      "text": "grep1.md"
     }],
     "intro": {
       "text": "step1.md",
