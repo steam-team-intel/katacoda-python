@@ -18,7 +18,10 @@
       "title": "Lección 4 - Mover/Copiar",
       "text": "copy.md"
     },{
-      "title": "Lección 4 - Man/Grep",
+      "title": "Lección 5 - Man y editores de texto",
+      "text": "man.md"
+    },{
+      "title": "Lección 6 - Grep",
       "text": "man.md"
     }],
     "intro": {
