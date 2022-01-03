@@ -5,3 +5,5 @@ Para ver esto  vamos a realizar el siguiente ejemplo utilizando el comando tail 
 Sí al comando grep le agregamos la opción -e  nos permite  poder buscar más de un patrón a  la vez: `tail -n 3 littlePrince.txt | grep -wine palabra -wine palabra2`{{copy}} 
 
 También podemos buscar no simplemente en un archivo en específico sino que en todo un directorio de la siguiente manera: `grep -win palabra ./*.*`{{copy}} 
+
+Por último podemos hacer una búsqueda recursiva en subdirectorios dentro de un directorio en el que estemos de la siguiente manera `grep -winR palabra ./`{{copy}} 
