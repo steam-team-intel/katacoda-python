@@ -5,4 +5,6 @@
 
 Lo primero que vamos a hacer es crear el archivo con el juego vamos a trabajar utilizando el comando nano de la siguiente manera `nano littlePrince.txt`{{execute}}
 
-Una vez tenemos el archivo con el contenido deseado vamos a hacer un pequeño ejemplo del uso de comando grep. 
+Para poder ver en terminal lo que tiene un archivo sin necesidad de abrir un editor de texto se puede utilizar el comando cat de la siguiente manera `cat littlePrince.txt`{{execute}}
+
+Una vez tenemos el archivo con el contenido deseado vamos a hacer un pequeño ejemplo del uso de comando grep. `grep and littlePrince.txt`{{execute}}
