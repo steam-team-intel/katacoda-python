@@ -10,10 +10,10 @@ Una vez tenemos el archivo con el contenido deseado vamos a hacer un pequeño ej
 
 Ahora vamos a hacer uso de las opciones, si utilizamos la opción **-w**  va a buscar por palabra en vez de por caracteres como lo hace  por defecto `grep -w and littlePrince.txt`{{execute}}
 
-Las búsquedas las va a ser tal cual con el patrón que nosotros pongamos,  es decir  sí usamos un patrón como por ejemplo AND  de la siguiente forma no nos va a dar ningún resultado: `grep -w AND littlePrince.txt`{{execute}}, para poder buscar con un patrón en el cual ignoré estás diferencias podemos utilizar la opción i de la sig manera: `grep -wi AND littlePrince.txt`{{execute}}
+Las búsquedas las va realizar con el patrón exacto que nosotros pongamos,  es decir, sí usamos un patrón como por ejemplo AND, no nos va a dar ningún resultado: `grep -w AND littlePrince.txt`{{execute}}, para poder buscar con un patrón en el cual ignoré estás diferencias podemos utilizar la opción **-i** de la sig manera: `grep -wi AND littlePrince.txt`{{execute}}
 
-La siguiente opción que vamos a ver es la opción n la cual nos permite identificar en que línea del documento se encuentra el patrón a buscar `grep -n and littlePrince.txt`{{execute}}
+La siguiente opción que vamos a ver **n** la cual nos permite identificar en que línea del documento se encuentra el patrón a buscar `grep -n and littlePrince.txt`{{execute}}
 
-También podemos hacer una búsqueda  con el comando grep el cual nos devuelve las líneas  que no contienen el patrón dado, para esto se usa la opción v: `grep -nv and littlePrince.txt`{{execute}} 
+También, con el comando grep se puede obtener las líneas  que no contienen el patrón dado, para esto se usa la opción **v**: `grep -nv and littlePrince.txt`{{execute}} 
 
-Si queremos limitar la cantidad de líneas que nos muestra en consola se utiliza la opción m `grep -nm 3 and littlePrince.txt`{{execute}} y si queremos contar la cantidad de veces que el patrón se encuentra Entonces tendremos que usar la opción c `grep -c and littlePrince.txt`{{execute}}
+Para limitar la cantidad de líneas que nos muestra en consola se utiliza la opción **m** `grep -nm 3 and littlePrince.txt`{{execute}} y para contar la cantidad de veces que el patrón se encuentra entonces tendremos que usar la opción **c** `grep -c and littlePrince.txt`{{execute}}
