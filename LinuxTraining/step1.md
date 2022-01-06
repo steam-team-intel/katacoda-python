@@ -12,6 +12,6 @@ Para este taller no es necesario instalarlo en su máquina. Para comenzar sólo 
 
 **2. **  Una vez comprobada la versión de Linux revisaremos la versión del kernel con el siguiente comando: `uname -r`{{execute}}
 
-**3. ** Una vez que ya revisamos nuestra versión de Linux y su kernel, vamos a ver lo que tenemos en nuestro sistema operativo en estos momentos para esto vamos a utilizar el siguiente comando `ls`{{execute}}
+**3. ** Una vez que ya revisamos nuestra versión de Linux y su kernel, vamos a ver lo que tenemos en nuestro sistema operativo, para esto vamos a utilizar el siguiente comando `ls`{{execute}}
 
 **4. ** Además, vamos a ver en dónde estamos ubicados en  este momento  con el siguiente comando:`pwd`{{execute}}
