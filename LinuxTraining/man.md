@@ -1,4 +1,4 @@
-El Comando man es un comando muy importante e interesante, nos permite acceder a la documentación disponible de sus herramientas y así aprender sobre comandos por ejemplo: `man grep`{{execute}}
+El comando man es muy importante e interesante, nos permite acceder a la documentación disponible de sus herramientas y así aprender sobre comandos por ejemplo: `man grep`{{execute}}
 
 Al ejecutar este comando se nos despliega un manual, para salir de dicha pantalla tenemos que presionar la letra **q** y si queremos más información tenemos que presionar la letra **h**. 
 
