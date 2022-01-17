@@ -36,8 +36,10 @@
     }
   },
   "environment": {
+    "showide": true,
+    "idePort": 23000,
     "hideintro": true,
-    "uilayout": "editor"
+    "uilayout": "terminal"
   },
   "backend": {
     "imageid": "ubuntu"
