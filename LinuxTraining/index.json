@@ -36,8 +36,7 @@
     }
   },
   "environment": {
-    "showide": true,
-    "idePort": 23000,
+    "uilayout": "terminal" 
     "hideintro": true,
   },
   "backend": {
