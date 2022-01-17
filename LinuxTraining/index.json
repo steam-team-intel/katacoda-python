@@ -39,7 +39,6 @@
     "showide": true,
     "idePort": 23000,
     "hideintro": true,
-    "uilayout": "terminal"
   },
   "backend": {
     "imageid": "ubuntu"
